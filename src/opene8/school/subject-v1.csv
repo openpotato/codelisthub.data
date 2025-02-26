@@ -1,0 +1,63 @@
+code,shortName,longName
+40,AgrTBi,Agrartechnik mit Biologie
+60,Arab,Arabisch
+80,BauT,Bautechnik
+90,BerInf,Berufliche Informatik
+100,Biol,Biologie
+120,Chem,Chemie
+140,Chin,Chinesisch
+160,Dän,Dänisch
+180,Dsp,Darstellendes Spiel
+200,Deu,Deutsch
+220,Eng,Englisch
+240,Ernähr,Ernährung
+260,ErzWi,Erziehungswissenschaft
+280,ErzPsy,Erziehungswissenschaften (Pädagogik/Psychologie)
+300,Ethik,Ethik
+320,EvRel,Evangelische Religionslehre
+340,Farsi,Farsi
+360,Franz,Französisch
+380,Geo,Geographie
+400,Geol,Geologie
+420,Gesch,Geschichte
+440,Gesund,Gesundheit
+460,Griech,Griechisch
+480,GrOrRel,Griechisch-orthodoxe Religionslehre
+500,Hebr,Hebräisch
+520,Inf,Informatik
+540,IslRel,Islamischer Religionsunterricht
+560,IsrRel,Israelitische Religionslehre
+580,Ital,Italienisch
+600,Japan,Japanisch
+620,JüdRel,Jüdische Religionslehre
+640,KatRel,Katholische Religionslehre
+660,Kunst,Kunst
+680,Lat,Latein
+720,Litau,Litauisch
+740,Math,Mathematik
+760,Musik,Musik
+780,NeoGr,Neugriechisch
+800,NiederD,Niederdeutsch
+820,Niederl,Niederländisch
+840,Philo,Philosophie
+860,Physik,Physik
+880,Poln,Polnisch
+900,Port,Portugiesisch
+920,Psych,Psychologie
+940,Recht,Recht
+980,Russ,Russisch
+1000,RussOrRel,Russisch-orthodoxe Religionslehre
+1020,Schwed,Schwedisch
+1040,Sorb,Sorbisch
+1060,SorbW,Sorbisch/Wendisch
+1080,SozPol,Sozialkunde/Politik
+1100,SozWi,Sozialwissenschaften
+1120,Sozio,Soziologie
+1140,Span,Spanisch
+1160,Sport,Sport
+1180,Techn,Technik
+1200,Tschech,Tschechisch
+1220,Türk,Türkisch
+1240,Ungr,Ungarisch
+1260,Wirt,Wirtschaft
+1280,WiInf,Wirtschaftsinformatik

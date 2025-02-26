@@ -1,0 +1,58 @@
+{
+  "$opencodelist": "0.3.0",
+  "codeList": {
+    "identification": {
+      "language": "de",
+      "shortName": "Unterricht.Form",
+      "longName": "Form des Unterrichts",
+      "version": "v1",
+      "canonicalUri": "urn:opene8:school:codelist:de:teachingForm",
+      "canonicalVersionUri": "urn:opene8:school:codelist:de:teachingForm:v1",
+      "locationUrls": [
+        "https://api.codelisthub.org/v1/documents/urn%3Aopene8%3Aschool%3Acodelist%3Ade%3AteachingForm%3Av1"
+      ],
+      "alternateFormatLocations": [
+        {
+          "mimeType": "text/csv",
+          "url": "https://api.codelisthub.org/v1/documents/urn%3Aopene8%3Aschool%3Acodelist%3Ade%3AteachingForm%3Av1"
+        }
+      ],
+      "publishedAt": "2025-02-26T12:00:00",
+      "publisher": {
+        "shortName": "OpenE8",
+        "url": "https://openpotato.github.io/opene8/"
+      }
+    },
+    "columnSet": {
+      "columns": [
+        {
+          "id": "code",
+          "name": "Code",
+          "type": "string"
+        },
+        {
+          "id": "shortName",
+          "name": "Kürzel",
+          "type": "string"
+        },
+        {
+          "id": "longName",
+          "name": "Bezeichnung",
+          "type": "string"
+        }
+      ],
+      "defaultKey": {
+        "keyId": "key"
+      },
+      "keys": [
+        {
+          "id": "key",
+          "name": "Schlüssel",
+          "columnIds": [
+            "code"
+          ]
+        }
+      ]
+    }
+  }
+}

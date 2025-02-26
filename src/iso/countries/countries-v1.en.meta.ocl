@@ -1,0 +1,110 @@
+{
+  "$opencodelist": "0.3.0",
+  "codeList": {
+    "annotation": {
+      "descriptions": [
+        {
+          "format": "text",
+          "language": "en",
+          "content": "The codes are taken from the country code list ISO-3166-1 of the International Organisation for Standardisation (ISO): https://www.iso.org/iso-3166-country-codes.html"
+        }
+      ]
+    },
+    "identification": {
+      "language": "en",
+      "shortName": "ISO.CountryCodeList",
+      "longName": "Country code list ISO-3166-1 of the International Organisation for Standardisation (ISO)",
+      "version": "v1",
+      "canonicalUri": "urn:codelisthub:iso:countries",
+      "canonicalVersionUri": "urn:codelisthub:iso:countries:v1",
+      "locationUrls": [
+        "https://api.codelisthub.org/v1/documents/urn%3Acodelisthub%3Aiso%3Acountries%3Av1?language=en"
+      ],
+      "alternateLanguageLocations": [
+        {
+          "language": "de",
+          "url": "https://api.codelisthub.org/v1/documents/urn%3Acodelisthub%3Aiso%3Acountries%3Av1?language=de"
+        }
+      ],
+      "alternateFormatLocations": [
+        {
+          "mimeType": "text/csv",
+          "url": "https://api.codelisthub.org/v1/documents/urn%3Acodelisthub%3Aiso%3Acountries%3Av1?language=en"
+        }
+      ],
+      "publishedAt": "2025-02-26T12:00:00",
+      "publisher": {
+        "shortName": "CodeListHub",
+        "url": "https://www.codelisthub.org/en"
+      }
+    },
+    "columnSet": {
+      "columns": [
+        {
+          "id": "alpha2Code",
+          "name": "Alpha 2 Code",
+          "type": "string"
+        },
+        {
+          "id": "alpha3Code",
+          "name": "Alpha 3 Code",
+          "type": "string"
+        },
+        {
+          "id": "numericCode",
+          "name": "Numeric Code",
+          "type": "string"
+        },
+        {
+          "id": "name",
+          "name": "Name",
+          "type": "string"
+        },
+        {
+          "id": "fullName",
+          "name": "Full Name",
+          "type": "string"
+        },
+        {
+          "id": "status",
+          "name": "Status",
+          "type": "enum",
+          "members": [
+            {
+              "value": "Officially assigned"
+            },
+            {
+              "value": "User assigned"
+            }
+          ]
+        }
+      ],
+      "defaultKey": {
+        "keyId": "alpha2Key"
+      },
+      "keys": [
+        {
+          "id": "alpha2Key",
+          "name": "Alpha 2 Code",
+          "columnIds": [
+            "alpha2Code"
+          ]
+        },
+        {
+          "id": "alpha3Key",
+          "name": "Alpha 3 Code",
+          "columnIds": [
+            "alpha3Code"
+          ]
+        },
+        {
+          "id": "numericKey",
+          "name": "Numeric Code",
+          "columnIds": [
+            "numericCode"
+          ]
+        }
+      ]
+    }
+  }
+}
