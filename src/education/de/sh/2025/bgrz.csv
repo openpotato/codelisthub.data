@@ -1,0 +1,11 @@
+code,shortName,longName,comment
+01,01,Einstellung in den Schuldienst mit II. Staatsexamen/Staatsprüfung,
+02,02,Einstellung in den Schuldienst in sonstigen Fällen,
+03,03,Versetzung aus dem Schuldienst eines anderen Bundeslandes,
+04,04,Umwandlung der Teilzeitbeschäftigung in Vollzeitbeschäftigung,
+05,05,Rückkehr aus Beurlaubung,
+06,06,Rückkehr aus der Elternzeit,
+07,07,Versetzung von einer anderen Schule (Dienststelle) unter Wechsel der Schulart innerhalb SH,
+08,08,Versetzung von einer anderen Schule (Dienststelle) derselben Schulart innerhalb SH,
+10,10,Sonstige Zugänge in die Voll- / bzw. Teilzeitbeschäftigung,
+99,99,Zugangsgrund für stundenweise Beschäftigte (einschließlich Referendare),

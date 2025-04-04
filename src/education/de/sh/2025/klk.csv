@@ -1,0 +1,30 @@
+code,shortName,longName,comment
+1JGST,1JGST,1. Jahrgangsstufe,
+2JGST,2JGST,2. Jahrgangsstufe,
+3JGST,3JGST,3. Jahrgangsstufe,
+4JGST,4JGST,4. Jahrgangsstufe,
+ÜPS,ÜPS,Klassenstufenübergreifende Klasse Primarstufe,z.B. Klassen d. flex. Eingangphase
+5JGST,5JGST,5. Jahrgangsstufe,
+6JGST,6JGST,6. Jahrgangsstufe,
+7JGST,7JGST,7. Jahrgangsstufe,
+8JGST,8JGST,8. Jahrgangsstufe,
+9JGST,9JGST,9. Jahrgangsstufe,
+10JGST,10JGST,10. Jahrgangsstufe,
+ÜSEK1,ÜSEK1,Klassenstufenübergreifende Klasse Sekundarstufe I,
+ÜPSSEK1,ÜPSSEK1,Klassenstufenübergreifende Klasse Primar- und Sekundarstufe I,
+E,E,Einführungsphase,Profiloberstufe
+Q1,Q1,Qualifikationsphase 1,Profiloberstufe
+Q2,Q2,Qualifikationsphase 2,Profiloberstufe
+Q3,Q3,Qualifikationsphase 3,"nur für BG Biotechnik, Sozialwesen, Pharmazie"
+ÜSEK2,ÜSEK2,Klassenstufenübergreifende Klasse Sekundarstufe II,
+ÜSEK12,ÜSEK12,Klassenstufenübergreifende Klasse Sekundarstufe I und Sekundarstufe II,
+PS,PS,Primarstufe,"nur FÖZ Fschwp ""Geistige Entwicklung"""
+SS,SS,Sekundarstufe,"nur FÖZ Fschwp ""Geistige Entwicklung"""
+BS,BS,Berufsbildungsstufe,"nur FÖZ Fschwp ""Geistige Entwicklung"""
+UMOW,UMOW,Sammelklasse,"nur FÖZ Fschwp ""Geistige Entwicklung"""
+ÜFÖZ,ÜFÖZ,Mischklasse FöZ,nur FÖZ
+DaZ,DaZ,DaZ-Klassen (nur für DaZ-Zentren),"nur für DaZ-Klassen in der Basisstufe, nicht für einzelne Schüler"
+Flex,Flex,Flex-Klassen,nur 8./9. Jahrgangsstufe
+Praxis,Praxis,Praxis-Klassen,nur 8./9. Jahrgangsstufe
+Prod,Prod,Produktives Lernen,nur 8./9. Jahrgangsstufe
+Päd,Päd,pädagogische Prägung,"nur für Ersatzschulen mit demokratischem Konzept, nur Primarstufe und Sek I"

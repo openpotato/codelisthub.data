@@ -1,0 +1,1140 @@
+code,shortName,longName,comment
+dk,dk,Dänemark,
+01000000,01000000,Schleswig-Holstein,"Bundesland
+"
+02000000,02000000,Hamburg,Bundesland
+03000000,03000000,Niedersachsen,Bundesland
+04000000,04000000,Bremen,Bundesland
+05000000,05000000,Nordrhein-Westfalen,Bundesland
+06000000,06000000,Hessen,Bundesland
+07000000,07000000,Rheinland-Pfalz,Bundesland
+08000000,08000000,Baden-Württemberg,Bundesland
+09000000,09000000,Bayern,Bundesland
+10000000,10000000,Saarland,Bundesland
+11000000,11000000,Berlin,Bundesland
+12000000,12000000,Brandenburg,Bundesland
+13000000,13000000,Mecklenburg-Vorpommern,Bundesland
+14000000,14000000,Sachsen,Bundesland
+15000000,15000000,Sachsen-Anhalt,Bundesland
+16000000,16000000,Thüringen,Bundesland
+01001000,01001000,Flensburg,Landkreis
+01002000,01002000,Kiel,Landkreis
+01003000,01003000,Lübeck,Landkreis
+01004000,01004000,Neumünster,Landkreis
+01051000,01051000,Dithmarschen,Landkreis
+01053000,01053000,Hzgt. Lauenburg,Landkreis
+01054000,01054000,Nordfriesland,Landkreis
+01055000,01055000,Ostholstein,Landkreis
+01056000,01056000,Pinneberg,Landkreis
+01057000,01057000,Plön,Landkreis
+01058000,01058000,Rendsburg-Eckernförde,Landkreis
+01059000,01059000,Schleswig-Flensburg,Landkreis
+01060000,01060000,Segeberg,Landkreis
+01061000,01061000,Steinburg,Landkreis
+01062000,01062000,Stormarn,Landkreis
+01001000,01001000,"Flensburg, Stadt",Stadt / Gemeinde
+01002000,01002000,"Kiel, Landeshauptstadt",Stadt / Gemeinde
+01003000,01003000,"Lübeck, Hansestadt",Stadt / Gemeinde
+01004000,01004000,"Neumünster, Stadt",Stadt / Gemeinde
+01051001,01051001,Albersdorf,Stadt / Gemeinde
+01051002,01051002,Arkebek,Stadt / Gemeinde
+01051003,01051003,Averlak,Stadt / Gemeinde
+01051004,01051004,Bargenstedt,Stadt / Gemeinde
+01051005,01051005,Barkenholm,Stadt / Gemeinde
+01051006,01051006,Barlt,Stadt / Gemeinde
+01051008,01051008,Bergewöhrden,Stadt / Gemeinde
+01051010,01051010,Brickeln,Stadt / Gemeinde
+01051011,01051011,"Brunsbüttel, Stadt",Stadt / Gemeinde
+01051012,01051012,Buchholz (Kr. Dithmarschen),Stadt / Gemeinde
+01051013,01051013,Büsum,Stadt / Gemeinde
+01051014,01051014,Büsumer Deichhausen,Stadt / Gemeinde
+01051015,01051015,Bunsoh,Stadt / Gemeinde
+01051016,01051016,Burg (Dithmarschen),Stadt / Gemeinde
+01051017,01051017,Busenwurth,Stadt / Gemeinde
+01051019,01051019,Dellstedt,Stadt / Gemeinde
+01051020,01051020,Delve,Stadt / Gemeinde
+01051021,01051021,Diekhusen-Fahrstedt,Stadt / Gemeinde
+01051022,01051022,Dingen,Stadt / Gemeinde
+01051023,01051023,Dörpling,Stadt / Gemeinde
+01051024,01051024,Eddelak,Stadt / Gemeinde
+01051026,01051026,Eggstedt,Stadt / Gemeinde
+01051027,01051027,Elpersbüttel,Stadt / Gemeinde
+01051028,01051028,Epenwöhrden,Stadt / Gemeinde
+01051030,01051030,Fedderingen,Stadt / Gemeinde
+01051032,01051032,Frestedt,Stadt / Gemeinde
+01051033,01051033,Friedrichsgabekoog,Stadt / Gemeinde
+01051034,01051034,Friedrichskoog,Stadt / Gemeinde
+01051035,01051035,Gaushorn,Stadt / Gemeinde
+01051036,01051036,Glüsing,Stadt / Gemeinde
+01051037,01051037,Großenrade,Stadt / Gemeinde
+01051038,01051038,Groven,Stadt / Gemeinde
+01051039,01051039,Gudendorf,Stadt / Gemeinde
+01051043,01051043,Hedwigenkoog,Stadt / Gemeinde
+01051044,01051044,"Heide, Stadt",Stadt / Gemeinde
+01051045,01051045,Hellschen-Heringsand-Unterschaar,Stadt / Gemeinde
+01051046,01051046,Helse,Stadt / Gemeinde
+01051047,01051047,Hemme,Stadt / Gemeinde
+01051048,01051048,Hemmingstedt,Stadt / Gemeinde
+01051049,01051049,Hennstedt (Kr. Dithmarschen),Stadt / Gemeinde
+01051050,01051050,Hillgroven,Stadt / Gemeinde
+01051051,01051051,Hochdonn,Stadt / Gemeinde
+01051052,01051052,Hövede,Stadt / Gemeinde
+01051053,01051053,Hollingstedt (Kr. Dithmarschen),Stadt / Gemeinde
+01051054,01051054,Immenstedt (Kr. Dithmarschen),Stadt / Gemeinde
+01051057,01051057,Kaiser-Wilhelm-Koog,Stadt / Gemeinde
+01051058,01051058,Karolinenkoog,Stadt / Gemeinde
+01051060,01051060,Kleve (Kr. Dithmarschen),Stadt / Gemeinde
+01051061,01051061,Krempel,Stadt / Gemeinde
+01051062,01051062,Kronprinzenkoog,Stadt / Gemeinde
+01051063,01051063,Krumstedt,Stadt / Gemeinde
+01051064,01051064,Kuden,Stadt / Gemeinde
+01051065,01051065,Lehe,Stadt / Gemeinde
+01051067,01051067,Lieth,Stadt / Gemeinde
+01051068,01051068,Linden,Stadt / Gemeinde
+01051069,01051069,Lohe-Rickelshof,Stadt / Gemeinde
+01051071,01051071,Lunden,Stadt / Gemeinde
+01051072,01051072,"Marne, Stadt",Stadt / Gemeinde
+01051073,01051073,Marnerdeich,Stadt / Gemeinde
+01051074,01051074,"Meldorf, Stadt",Stadt / Gemeinde
+01051075,01051075,Neuenkirchen,Stadt / Gemeinde
+01051076,01051076,Neufeld,Stadt / Gemeinde
+01051077,01051077,Neufelderkoog,Stadt / Gemeinde
+01051078,01051078,Nindorf (Kr. Dithmarschen),Stadt / Gemeinde
+01051079,01051079,Norddeich,Stadt / Gemeinde
+01051080,01051080,Norderheistedt,Stadt / Gemeinde
+01051081,01051081,Norderwöhrden,Stadt / Gemeinde
+01051082,01051082,Nordhastedt,Stadt / Gemeinde
+01051083,01051083,Odderade,Stadt / Gemeinde
+01051084,01051084,Oesterdeichstrich,Stadt / Gemeinde
+01051085,01051085,Offenbüttel,Stadt / Gemeinde
+01051086,01051086,Osterrade,Stadt / Gemeinde
+01051087,01051087,Ostrohe,Stadt / Gemeinde
+01051088,01051088,Pahlen,Stadt / Gemeinde
+01051089,01051089,Quickborn (Kr. Dithmarschen),Stadt / Gemeinde
+01051090,01051090,Ramhusen,Stadt / Gemeinde
+01051092,01051092,Rehm-Flehde-Bargen,Stadt / Gemeinde
+01051093,01051093,Reinsbüttel,Stadt / Gemeinde
+01051096,01051096,Sankt Annen,Stadt / Gemeinde
+01051097,01051097,Sankt Michaelisdonn,Stadt / Gemeinde
+01051098,01051098,Sarzbüttel,Stadt / Gemeinde
+01051099,01051099,Schafstedt,Stadt / Gemeinde
+01051100,01051100,Schalkholz,Stadt / Gemeinde
+01051102,01051102,Schlichting,Stadt / Gemeinde
+01051103,01051103,Schmedeswurth,Stadt / Gemeinde
+01051104,01051104,Schrum,Stadt / Gemeinde
+01051105,01051105,Schülp,Stadt / Gemeinde
+01051107,01051107,Stelle-Wittenwurth,Stadt / Gemeinde
+01051108,01051108,Strübbel,Stadt / Gemeinde
+01051109,01051109,Süderdeich,Stadt / Gemeinde
+01051110,01051110,Süderhastedt,Stadt / Gemeinde
+01051113,01051113,Wöhrden,Stadt / Gemeinde
+01051114,01051114,Tellingstedt,Stadt / Gemeinde
+01051117,01051117,Tielenhemme,Stadt / Gemeinde
+01051118,01051118,Trennewurth,Stadt / Gemeinde
+01051119,01051119,Volsemenhusen,Stadt / Gemeinde
+01051120,01051120,Wallen,Stadt / Gemeinde
+01051121,01051121,Warwerort,Stadt / Gemeinde
+01051122,01051122,Weddingstedt,Stadt / Gemeinde
+01051125,01051125,Welmbüttel,Stadt / Gemeinde
+01051126,01051126,Wennbüttel,Stadt / Gemeinde
+01051127,01051127,"Wesselburen, Stadt",Stadt / Gemeinde
+01051128,01051128,Wesselburener Deichhausen,Stadt / Gemeinde
+01051129,01051129,Wesselburenerkoog,Stadt / Gemeinde
+01051130,01051130,Wesseln,Stadt / Gemeinde
+01051131,01051131,Westerborstel,Stadt / Gemeinde
+01051132,01051132,Westerdeichstrich,Stadt / Gemeinde
+01051133,01051133,Wiemerstedt,Stadt / Gemeinde
+01051134,01051134,Windbergen,Stadt / Gemeinde
+01051135,01051135,Wolmersdorf,Stadt / Gemeinde
+01051136,01051136,Wrohm,Stadt / Gemeinde
+01051137,01051137,Nordermeldorf,Stadt / Gemeinde
+01051138,01051138,Tensbüttel-Röst,Stadt / Gemeinde
+01051139,01051139,Süderdorf,Stadt / Gemeinde
+01051140,01051140,Oesterwurth,Stadt / Gemeinde
+01051141,01051141,Süderheistedt,Stadt / Gemeinde
+01053001,01053001,Albsfelde,Stadt / Gemeinde
+01053002,01053002,Alt Mölln,Stadt / Gemeinde
+01053003,01053003,Aumühle,Stadt / Gemeinde
+01053004,01053004,Bäk,Stadt / Gemeinde
+01053005,01053005,Bälau,Stadt / Gemeinde
+01053006,01053006,Basedow,Stadt / Gemeinde
+01053007,01053007,Basthorst,Stadt / Gemeinde
+01053008,01053008,Behlendorf,Stadt / Gemeinde
+01053009,01053009,Berkenthin,Stadt / Gemeinde
+01053010,01053010,Besenthal,Stadt / Gemeinde
+01053011,01053011,Bliestorf,Stadt / Gemeinde
+01053012,01053012,Börnsen,Stadt / Gemeinde
+01053013,01053013,Borstorf,Stadt / Gemeinde
+01053014,01053014,Breitenfelde,Stadt / Gemeinde
+01053015,01053015,Bröthen,Stadt / Gemeinde
+01053016,01053016,Brunsmark,Stadt / Gemeinde
+01053017,01053017,Brunstorf,Stadt / Gemeinde
+01053018,01053018,Buchholz (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053019,01053019,Buchhorst,Stadt / Gemeinde
+01053020,01053020,Büchen,Stadt / Gemeinde
+01053021,01053021,Dahmker,Stadt / Gemeinde
+01053022,01053022,Dalldorf,Stadt / Gemeinde
+01053023,01053023,Dassendorf,Stadt / Gemeinde
+01053024,01053024,Düchelsdorf,Stadt / Gemeinde
+01053025,01053025,Duvensee,Stadt / Gemeinde
+01053026,01053026,Einhaus,Stadt / Gemeinde
+01053027,01053027,Elmenhorst (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053028,01053028,Escheburg,Stadt / Gemeinde
+01053029,01053029,Fitzen,Stadt / Gemeinde
+01053030,01053030,Fredeburg,Stadt / Gemeinde
+01053031,01053031,Fuhlenhagen,Stadt / Gemeinde
+01053032,01053032,"Geesthacht, Stadt",Stadt / Gemeinde
+01053033,01053033,Giesensdorf,Stadt / Gemeinde
+01053034,01053034,Göldenitz,Stadt / Gemeinde
+01053035,01053035,Göttin,Stadt / Gemeinde
+01053036,01053036,Grabau (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053037,01053037,Grambek,Stadt / Gemeinde
+01053038,01053038,Grinau,Stadt / Gemeinde
+01053039,01053039,Groß Boden,Stadt / Gemeinde
+01053040,01053040,Groß Disnack,Stadt / Gemeinde
+01053041,01053041,Groß Grönau,Stadt / Gemeinde
+01053042,01053042,Groß Pampau,Stadt / Gemeinde
+01053043,01053043,Groß Sarau,Stadt / Gemeinde
+01053044,01053044,Groß Schenkenberg,Stadt / Gemeinde
+01053045,01053045,Grove,Stadt / Gemeinde
+01053046,01053046,Gudow,Stadt / Gemeinde
+01053047,01053047,Gülzow,Stadt / Gemeinde
+01053048,01053048,Güster,Stadt / Gemeinde
+01053049,01053049,Hamfelde (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053050,01053050,Hamwarde,Stadt / Gemeinde
+01053051,01053051,Harmsdorf (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053052,01053052,Havekost,Stadt / Gemeinde
+01053053,01053053,Hohenhorn,Stadt / Gemeinde
+01053054,01053054,Hollenbek,Stadt / Gemeinde
+01053056,01053056,Hornbek,Stadt / Gemeinde
+01053057,01053057,Horst (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053058,01053058,Juliusburg,Stadt / Gemeinde
+01053059,01053059,Kankelau,Stadt / Gemeinde
+01053060,01053060,Kasseburg,Stadt / Gemeinde
+01053061,01053061,Kastorf,Stadt / Gemeinde
+01053062,01053062,Kittlitz,Stadt / Gemeinde
+01053064,01053064,Klein Pampau,Stadt / Gemeinde
+01053066,01053066,Klein Zecher,Stadt / Gemeinde
+01053067,01053067,Klempau,Stadt / Gemeinde
+01053068,01053068,Klinkrade,Stadt / Gemeinde
+01053069,01053069,Koberg,Stadt / Gemeinde
+01053070,01053070,Köthel (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053071,01053071,Kollow,Stadt / Gemeinde
+01053072,01053072,Kröppelshagen-Fahrendorf,Stadt / Gemeinde
+01053073,01053073,Krüzen,Stadt / Gemeinde
+01053074,01053074,Krukow,Stadt / Gemeinde
+01053075,01053075,Krummesse,Stadt / Gemeinde
+01053076,01053076,Kuddewörde,Stadt / Gemeinde
+01053077,01053077,Kühsen,Stadt / Gemeinde
+01053078,01053078,Kulpin,Stadt / Gemeinde
+01053079,01053079,Labenz,Stadt / Gemeinde
+01053080,01053080,Langenlehsten,Stadt / Gemeinde
+01053081,01053081,Lankau,Stadt / Gemeinde
+01053082,01053082,Lanze,Stadt / Gemeinde
+01053083,01053083,"Lauenburg/Elbe, Stadt",Stadt / Gemeinde
+01053084,01053084,Lehmrade,Stadt / Gemeinde
+01053085,01053085,Linau,Stadt / Gemeinde
+01053086,01053086,Lüchow,Stadt / Gemeinde
+01053087,01053087,Lütau,Stadt / Gemeinde
+01053088,01053088,Mechow,Stadt / Gemeinde
+01053089,01053089,Möhnsen,Stadt / Gemeinde
+01053090,01053090,"Mölln, Stadt",Stadt / Gemeinde
+01053091,01053091,Mühlenrade,Stadt / Gemeinde
+01053092,01053092,Müssen,Stadt / Gemeinde
+01053093,01053093,Mustin,Stadt / Gemeinde
+01053094,01053094,Niendorf bei Berkenthin,Stadt / Gemeinde
+01053095,01053095,Niendorf/Stecknitz,Stadt / Gemeinde
+01053096,01053096,Nusse,Stadt / Gemeinde
+01053097,01053097,Panten,Stadt / Gemeinde
+01053098,01053098,Pogeez,Stadt / Gemeinde
+01053099,01053099,Poggensee,Stadt / Gemeinde
+01053100,01053100,"Ratzeburg, Stadt",Stadt / Gemeinde
+01053101,01053101,Ritzerau,Stadt / Gemeinde
+01053102,01053102,Römnitz,Stadt / Gemeinde
+01053103,01053103,Rondeshagen,Stadt / Gemeinde
+01053104,01053104,Roseburg,Stadt / Gemeinde
+01053105,01053105,"Sachsenwald, Forstgutsbezirk",Stadt / Gemeinde
+01053106,01053106,Sahms,Stadt / Gemeinde
+01053107,01053107,Salem,Stadt / Gemeinde
+01053108,01053108,Sandesneben,Stadt / Gemeinde
+01053109,01053109,Schiphorst,Stadt / Gemeinde
+01053110,01053110,Schmilau,Stadt / Gemeinde
+01053111,01053111,Schnakenbek,Stadt / Gemeinde
+01053112,01053112,Schönberg (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053113,01053113,Schretstaken,Stadt / Gemeinde
+01053114,01053114,Schürensöhlen,Stadt / Gemeinde
+01053115,01053115,Schulendorf,Stadt / Gemeinde
+01053116,01053116,"Schwarzenbek, Stadt",Stadt / Gemeinde
+01053117,01053117,Seedorf (Kr. Hzgt. Lauenburg),Stadt / Gemeinde
+01053118,01053118,Siebenbäumen,Stadt / Gemeinde
+01053119,01053119,Siebeneichen,Stadt / Gemeinde
+01053120,01053120,Sierksrade,Stadt / Gemeinde
+01053121,01053121,Sirksfelde,Stadt / Gemeinde
+01053122,01053122,Steinhorst,Stadt / Gemeinde
+01053123,01053123,Sterley,Stadt / Gemeinde
+01053124,01053124,Stubben,Stadt / Gemeinde
+01053125,01053125,Talkau,Stadt / Gemeinde
+01053126,01053126,Tramm,Stadt / Gemeinde
+01053127,01053127,Walksfelde,Stadt / Gemeinde
+01053128,01053128,Wangelau,Stadt / Gemeinde
+01053129,01053129,Wentorf bei Hamburg,Stadt / Gemeinde
+01053130,01053130,Wentorf (Amt Sandesneben),Stadt / Gemeinde
+01053131,01053131,Wiershop,Stadt / Gemeinde
+01053132,01053132,Witzeeze,Stadt / Gemeinde
+01053133,01053133,Wohltorf,Stadt / Gemeinde
+01053134,01053134,Woltersdorf,Stadt / Gemeinde
+01053135,01053135,Worth,Stadt / Gemeinde
+01053136,01053136,Ziethen,Stadt / Gemeinde
+01054001,01054001,Achtrup,Stadt / Gemeinde
+01054002,01054002,Ahrenshöft,Stadt / Gemeinde
+01054003,01054003,Ahrenviöl,Stadt / Gemeinde
+01054004,01054004,Ahrenviölfeld,Stadt / Gemeinde
+01054005,01054005,Alkersum,Stadt / Gemeinde
+01054006,01054006,Almdorf,Stadt / Gemeinde
+01054007,01054007,Arlewatt,Stadt / Gemeinde
+01054009,01054009,Aventoft,Stadt / Gemeinde
+01054010,01054010,Bargum,Stadt / Gemeinde
+01054011,01054011,Behrendorf,Stadt / Gemeinde
+01054012,01054012,Bohmstedt,Stadt / Gemeinde
+01054013,01054013,Bondelum,Stadt / Gemeinde
+01054014,01054014,Bordelum,Stadt / Gemeinde
+01054015,01054015,Borgsum,Stadt / Gemeinde
+01054016,01054016,Bosbüll,Stadt / Gemeinde
+01054017,01054017,Braderup,Stadt / Gemeinde
+01054018,01054018,Bramstedtlund,Stadt / Gemeinde
+01054019,01054019,"Bredstedt, Stadt",Stadt / Gemeinde
+01054020,01054020,Breklum,Stadt / Gemeinde
+01054022,01054022,Dagebüll,Stadt / Gemeinde
+01054023,01054023,Drage (Kr. Nordfriesland),Stadt / Gemeinde
+01054024,01054024,Drelsdorf,Stadt / Gemeinde
+01054025,01054025,Dunsum,Stadt / Gemeinde
+01054026,01054026,Elisabeth-Sophien-Koog,Stadt / Gemeinde
+01054027,01054027,Ellhöft,Stadt / Gemeinde
+01054032,01054032,Fresendelf,Stadt / Gemeinde
+01054033,01054033,"Friedrichstadt, Stadt",Stadt / Gemeinde
+01054034,01054034,Friedrich-Wilhelm-Lübke-Koog,Stadt / Gemeinde
+01054035,01054035,"Garding, Kirchspiel",Stadt / Gemeinde
+01054036,01054036,"Garding, Stadt",Stadt / Gemeinde
+01054037,01054037,Goldebek,Stadt / Gemeinde
+01054038,01054038,Goldelund,Stadt / Gemeinde
+01054039,01054039,Gröde,Stadt / Gemeinde
+01054040,01054040,Grothusenkoog,Stadt / Gemeinde
+01054041,01054041,Haselund,Stadt / Gemeinde
+01054042,01054042,Hattstedt,Stadt / Gemeinde
+01054043,01054043,Hattstedtermarsch,Stadt / Gemeinde
+01054045,01054045,Högel,Stadt / Gemeinde
+01054046,01054046,Hörnum (Sylt),Stadt / Gemeinde
+01054048,01054048,Holm (Kr. Nordfriesland),Stadt / Gemeinde
+01054050,01054050,Hallig Hooge,Stadt / Gemeinde
+01054052,01054052,Horstedt,Stadt / Gemeinde
+01054054,01054054,Hude,Stadt / Gemeinde
+01054055,01054055,Humptrup,Stadt / Gemeinde
+01054056,01054056,"Husum, Stadt",Stadt / Gemeinde
+01054057,01054057,Immenstedt (Kr. Nordfriesland),Stadt / Gemeinde
+01054059,01054059,Joldelund,Stadt / Gemeinde
+01054061,01054061,Kampen (Sylt),Stadt / Gemeinde
+01054062,01054062,Karlum,Stadt / Gemeinde
+01054063,01054063,Katharinenheerd,Stadt / Gemeinde
+01054065,01054065,Klanxbüll,Stadt / Gemeinde
+01054068,01054068,Klixbüll,Stadt / Gemeinde
+01054070,01054070,Koldenbüttel,Stadt / Gemeinde
+01054071,01054071,Kolkerheide,Stadt / Gemeinde
+01054072,01054072,Kotzenbüll,Stadt / Gemeinde
+01054073,01054073,Ladelund,Stadt / Gemeinde
+01054074,01054074,Langeneß,Stadt / Gemeinde
+01054075,01054075,Langenhorn,Stadt / Gemeinde
+01054076,01054076,Leck,Stadt / Gemeinde
+01054077,01054077,Lexgaard,Stadt / Gemeinde
+01054078,01054078,List auf Sylt,Stadt / Gemeinde
+01054079,01054079,Löwenstedt,Stadt / Gemeinde
+01054080,01054080,Lütjenholm,Stadt / Gemeinde
+01054083,01054083,Midlum,Stadt / Gemeinde
+01054084,01054084,Mildstedt,Stadt / Gemeinde
+01054085,01054085,Nebel,Stadt / Gemeinde
+01054086,01054086,Neukirchen (Kr. Nordfriesland),Stadt / Gemeinde
+01054087,01054087,Nieblum,Stadt / Gemeinde
+01054088,01054088,"Niebüll, Stadt",Stadt / Gemeinde
+01054089,01054089,Norddorf auf Amrum,Stadt / Gemeinde
+01054090,01054090,Norderfriedrichskoog,Stadt / Gemeinde
+01054091,01054091,Nordstrand,Stadt / Gemeinde
+01054092,01054092,Norstedt,Stadt / Gemeinde
+01054093,01054093,Ockholm,Stadt / Gemeinde
+01054094,01054094,Oevenum,Stadt / Gemeinde
+01054095,01054095,Oldenswort,Stadt / Gemeinde
+01054096,01054096,Oldersbek,Stadt / Gemeinde
+01054097,01054097,Olderup,Stadt / Gemeinde
+01054098,01054098,Oldsum,Stadt / Gemeinde
+01054099,01054099,Ostenfeld (Husum),Stadt / Gemeinde
+01054100,01054100,Osterhever,Stadt / Gemeinde
+01054101,01054101,Oster-Ohrstedt,Stadt / Gemeinde
+01054103,01054103,Pellworm,Stadt / Gemeinde
+01054104,01054104,Poppenbüll,Stadt / Gemeinde
+01054105,01054105,Ramstedt,Stadt / Gemeinde
+01054106,01054106,Rantrum,Stadt / Gemeinde
+01054108,01054108,Reußenköge,Stadt / Gemeinde
+01054109,01054109,Risum-Lindholm,Stadt / Gemeinde
+01054110,01054110,Rodenäs,Stadt / Gemeinde
+01054113,01054113,Sankt Peter-Ording,Stadt / Gemeinde
+01054116,01054116,Schwabstedt,Stadt / Gemeinde
+01054118,01054118,Schwesing,Stadt / Gemeinde
+01054119,01054119,Seeth,Stadt / Gemeinde
+01054120,01054120,Simonsberg,Stadt / Gemeinde
+01054121,01054121,Sönnebüll,Stadt / Gemeinde
+01054123,01054123,Sollwitt,Stadt / Gemeinde
+01054124,01054124,Sprakebüll,Stadt / Gemeinde
+01054125,01054125,Stadum,Stadt / Gemeinde
+01054126,01054126,Stedesand,Stadt / Gemeinde
+01054128,01054128,Struckum,Stadt / Gemeinde
+01054129,01054129,Süderende,Stadt / Gemeinde
+01054130,01054130,Süderhöft,Stadt / Gemeinde
+01054131,01054131,Süderlügum,Stadt / Gemeinde
+01054132,01054132,Südermarsch,Stadt / Gemeinde
+01054134,01054134,Tating,Stadt / Gemeinde
+01054135,01054135,Tetenbüll,Stadt / Gemeinde
+01054136,01054136,Tinningstedt,Stadt / Gemeinde
+01054138,01054138,"Tönning, Stadt",Stadt / Gemeinde
+01054140,01054140,Tümlauer Koog,Stadt / Gemeinde
+01054141,01054141,Uelvesbüll,Stadt / Gemeinde
+01054142,01054142,Uphusum,Stadt / Gemeinde
+01054143,01054143,Utersum,Stadt / Gemeinde
+01054144,01054144,Viöl,Stadt / Gemeinde
+01054145,01054145,Vollerwiek,Stadt / Gemeinde
+01054146,01054146,Vollstedt,Stadt / Gemeinde
+01054148,01054148,Welt,Stadt / Gemeinde
+01054149,01054149,Wenningstedt-Braderup (Sylt),Stadt / Gemeinde
+01054150,01054150,Westerhever,Stadt / Gemeinde
+01054152,01054152,Wester-Ohrstedt,Stadt / Gemeinde
+01054154,01054154,Westre,Stadt / Gemeinde
+01054156,01054156,Winnert,Stadt / Gemeinde
+01054157,01054157,Wisch (Kr. Nordfriesland),Stadt / Gemeinde
+01054158,01054158,Witsum,Stadt / Gemeinde
+01054159,01054159,Wittbek,Stadt / Gemeinde
+01054160,01054160,Wittdün auf Amrum,Stadt / Gemeinde
+01054161,01054161,Witzwort,Stadt / Gemeinde
+01054162,01054162,Wobbenbüll,Stadt / Gemeinde
+01054163,01054163,Wrixum,Stadt / Gemeinde
+01054164,01054164,"Wyk auf Föhr, Stadt",Stadt / Gemeinde
+01054165,01054165,Galmsbüll,Stadt / Gemeinde
+01054166,01054166,Emmelsbüll-Horsbüll,Stadt / Gemeinde
+01054167,01054167,Enge-Sande,Stadt / Gemeinde
+01054168,01054168,Sylt,Stadt / Gemeinde
+01055001,01055001,Ahrensbök,Stadt / Gemeinde
+01055002,01055002,Altenkrempe,Stadt / Gemeinde
+01055004,01055004,"Bad Schwartau, Stadt",Stadt / Gemeinde
+01055006,01055006,Beschendorf,Stadt / Gemeinde
+01055007,01055007,Bosau,Stadt / Gemeinde
+01055010,01055010,Dahme,Stadt / Gemeinde
+01055011,01055011,Damlos,Stadt / Gemeinde
+01055012,01055012,"Eutin, Stadt",Stadt / Gemeinde
+01055014,01055014,Göhl,Stadt / Gemeinde
+01055015,01055015,Gremersdorf,Stadt / Gemeinde
+01055016,01055016,Grömitz,Stadt / Gemeinde
+01055017,01055017,Großenbrode,Stadt / Gemeinde
+01055018,01055018,Grube,Stadt / Gemeinde
+01055020,01055020,Harmsdorf (Kr. Ostholstein),Stadt / Gemeinde
+01055021,01055021,"Heiligenhafen, Stadt",Stadt / Gemeinde
+01055022,01055022,Heringsdorf,Stadt / Gemeinde
+01055023,01055023,Kabelhorst,Stadt / Gemeinde
+01055024,01055024,Kasseedorf,Stadt / Gemeinde
+01055025,01055025,Kellenhusen (Ostsee),Stadt / Gemeinde
+01055027,01055027,Lensahn,Stadt / Gemeinde
+01055028,01055028,Malente,Stadt / Gemeinde
+01055029,01055029,Manhagen,Stadt / Gemeinde
+01055031,01055031,Neukirchen (Kr. Ostholstein),Stadt / Gemeinde
+01055032,01055032,"Neustadt in Holstein, Stadt",Stadt / Gemeinde
+01055033,01055033,"Oldenburg in Holstein, Stadt",Stadt / Gemeinde
+01055035,01055035,Ratekau,Stadt / Gemeinde
+01055036,01055036,Riepsdorf,Stadt / Gemeinde
+01055037,01055037,Schashagen,Stadt / Gemeinde
+01055038,01055038,Schönwalde am Bungsberg,Stadt / Gemeinde
+01055039,01055039,Sierksdorf,Stadt / Gemeinde
+01055040,01055040,Stockelsdorf,Stadt / Gemeinde
+01055041,01055041,Süsel,Stadt / Gemeinde
+01055042,01055042,Timmendorfer Strand,Stadt / Gemeinde
+01055043,01055043,Wangels,Stadt / Gemeinde
+01055044,01055044,Scharbeutz,Stadt / Gemeinde
+01055046,01055046,"Fehmarn, Stadt",Stadt / Gemeinde
+01056001,01056001,Appen,Stadt / Gemeinde
+01056002,01056002,"Barmstedt, Stadt",Stadt / Gemeinde
+01056003,01056003,Bevern,Stadt / Gemeinde
+01056004,01056004,Bilsen,Stadt / Gemeinde
+01056005,01056005,Bönningstedt,Stadt / Gemeinde
+01056006,01056006,Bokel (Kr. Pinneberg),Stadt / Gemeinde
+01056008,01056008,Bokholt-Hanredder,Stadt / Gemeinde
+01056009,01056009,Borstel-Hohenraden,Stadt / Gemeinde
+01056010,01056010,Brande-Hörnerkirchen,Stadt / Gemeinde
+01056011,01056011,Bullenkuhlen,Stadt / Gemeinde
+01056013,01056013,Ellerbek,Stadt / Gemeinde
+01056014,01056014,Ellerhoop,Stadt / Gemeinde
+01056015,01056015,"Elmshorn, Stadt",Stadt / Gemeinde
+01056016,01056016,Groß Nordende,Stadt / Gemeinde
+01056017,01056017,Groß Offenseth-Aspern,Stadt / Gemeinde
+01056018,01056018,Halstenbek,Stadt / Gemeinde
+01056019,01056019,Haselau,Stadt / Gemeinde
+01056020,01056020,Haseldorf,Stadt / Gemeinde
+01056021,01056021,Hasloh,Stadt / Gemeinde
+01056022,01056022,Heede,Stadt / Gemeinde
+01056023,01056023,Heidgraben,Stadt / Gemeinde
+01056024,01056024,Heist,Stadt / Gemeinde
+01056025,01056025,Helgoland,Stadt / Gemeinde
+01056026,01056026,Hemdingen,Stadt / Gemeinde
+01056027,01056027,Hetlingen,Stadt / Gemeinde
+01056028,01056028,Holm (Kr. Pinneberg),Stadt / Gemeinde
+01056029,01056029,Klein Nordende,Stadt / Gemeinde
+01056030,01056030,Klein Offenseth-Sparrieshoop,Stadt / Gemeinde
+01056031,01056031,Kölln-Reisiek,Stadt / Gemeinde
+01056032,01056032,Kummerfeld,Stadt / Gemeinde
+01056033,01056033,Seester,Stadt / Gemeinde
+01056034,01056034,Langeln,Stadt / Gemeinde
+01056035,01056035,Lutzhorn,Stadt / Gemeinde
+01056036,01056036,Moorrege,Stadt / Gemeinde
+01056037,01056037,Neuendeich,Stadt / Gemeinde
+01056038,01056038,Osterhorn,Stadt / Gemeinde
+01056039,01056039,"Pinneberg, Stadt",Stadt / Gemeinde
+01056040,01056040,Prisdorf,Stadt / Gemeinde
+01056041,01056041,"Quickborn, Stadt (Kr. Pinneberg)",Stadt / Gemeinde
+01056042,01056042,Raa-Besenbek,Stadt / Gemeinde
+01056043,01056043,Rellingen,Stadt / Gemeinde
+01056044,01056044,"Schenefeld, Stadt (Kr. Pinneberg)",Stadt / Gemeinde
+01056045,01056045,Seestermühe,Stadt / Gemeinde
+01056046,01056046,Seeth-Ekholt,Stadt / Gemeinde
+01056047,01056047,Tangstedt (Kr. Pinneberg),Stadt / Gemeinde
+01056048,01056048,"Tornesch, Stadt",Stadt / Gemeinde
+01056049,01056049,"Uetersen, Stadt",Stadt / Gemeinde
+01056050,01056050,"Wedel, Stadt",Stadt / Gemeinde
+01056051,01056051,Westerhorn,Stadt / Gemeinde
+01057001,01057001,Ascheberg (Holstein),Stadt / Gemeinde
+01057002,01057002,Barmissen,Stadt / Gemeinde
+01057003,01057003,Barsbek,Stadt / Gemeinde
+01057004,01057004,Behrensdorf (Ostsee),Stadt / Gemeinde
+01057005,01057005,Belau,Stadt / Gemeinde
+01057006,01057006,Bendfeld,Stadt / Gemeinde
+01057007,01057007,Blekendorf,Stadt / Gemeinde
+01057008,01057008,Bönebüttel,Stadt / Gemeinde
+01057009,01057009,Bösdorf,Stadt / Gemeinde
+01057010,01057010,Boksee,Stadt / Gemeinde
+01057011,01057011,Bothkamp,Stadt / Gemeinde
+01057012,01057012,Brodersdorf,Stadt / Gemeinde
+01057013,01057013,Dannau,Stadt / Gemeinde
+01057015,01057015,Dersau,Stadt / Gemeinde
+01057016,01057016,Dobersdorf,Stadt / Gemeinde
+01057017,01057017,Dörnick,Stadt / Gemeinde
+01057018,01057018,Fahren,Stadt / Gemeinde
+01057020,01057020,Fiefbergen,Stadt / Gemeinde
+01057021,01057021,Giekau,Stadt / Gemeinde
+01057022,01057022,Grebin,Stadt / Gemeinde
+01057023,01057023,Großbarkau,Stadt / Gemeinde
+01057024,01057024,Großharrie,Stadt / Gemeinde
+01057025,01057025,Heikendorf,Stadt / Gemeinde
+01057026,01057026,Helmstorf,Stadt / Gemeinde
+01057027,01057027,Högsdorf,Stadt / Gemeinde
+01057028,01057028,Höhndorf,Stadt / Gemeinde
+01057029,01057029,Hohenfelde (Kr. Plön),Stadt / Gemeinde
+01057030,01057030,Hohwacht (Ostsee),Stadt / Gemeinde
+01057031,01057031,Honigsee,Stadt / Gemeinde
+01057032,01057032,Kalübbe,Stadt / Gemeinde
+01057033,01057033,Kirchbarkau,Stadt / Gemeinde
+01057034,01057034,Kirchnüchel,Stadt / Gemeinde
+01057035,01057035,Klamp,Stadt / Gemeinde
+01057037,01057037,Klein Barkau,Stadt / Gemeinde
+01057038,01057038,Kletkamp,Stadt / Gemeinde
+01057039,01057039,Köhn,Stadt / Gemeinde
+01057040,01057040,Krokau,Stadt / Gemeinde
+01057041,01057041,Krummbek,Stadt / Gemeinde
+01057042,01057042,Kühren,Stadt / Gemeinde
+01057043,01057043,Laboe,Stadt / Gemeinde
+01057044,01057044,Lammershagen,Stadt / Gemeinde
+01057045,01057045,Lebrade,Stadt / Gemeinde
+01057046,01057046,Lehmkuhlen,Stadt / Gemeinde
+01057047,01057047,Löptin,Stadt / Gemeinde
+01057048,01057048,"Lütjenburg, Stadt",Stadt / Gemeinde
+01057049,01057049,Lutterbek,Stadt / Gemeinde
+01057050,01057050,Martensrade,Stadt / Gemeinde
+01057051,01057051,Mönkeberg,Stadt / Gemeinde
+01057052,01057052,Mucheln,Stadt / Gemeinde
+01057053,01057053,Nehmten,Stadt / Gemeinde
+01057054,01057054,Nettelsee,Stadt / Gemeinde
+01057055,01057055,Panker,Stadt / Gemeinde
+01057056,01057056,Passade,Stadt / Gemeinde
+01057057,01057057,"Plön, Stadt",Stadt / Gemeinde
+01057058,01057058,Pohnsdorf,Stadt / Gemeinde
+01057059,01057059,Postfeld,Stadt / Gemeinde
+01057060,01057060,Prasdorf,Stadt / Gemeinde
+01057062,01057062,"Preetz, Stadt",Stadt / Gemeinde
+01057063,01057063,Probsteierhagen,Stadt / Gemeinde
+01057065,01057065,Rantzau,Stadt / Gemeinde
+01057066,01057066,Rastorf,Stadt / Gemeinde
+01057067,01057067,Rathjensdorf,Stadt / Gemeinde
+01057068,01057068,Rendswühren,Stadt / Gemeinde
+01057069,01057069,Ruhwinkel,Stadt / Gemeinde
+01057070,01057070,Schellhorn,Stadt / Gemeinde
+01057071,01057071,Schillsdorf,Stadt / Gemeinde
+01057072,01057072,Schlesen,Stadt / Gemeinde
+01057073,01057073,Schönberg (Holstein) (Kr. Plön),Stadt / Gemeinde
+01057074,01057074,Schönkirchen,Stadt / Gemeinde
+01057076,01057076,Schwartbuck,Stadt / Gemeinde
+01057077,01057077,Selent,Stadt / Gemeinde
+01057078,01057078,Stakendorf,Stadt / Gemeinde
+01057079,01057079,Stein,Stadt / Gemeinde
+01057080,01057080,Stolpe,Stadt / Gemeinde
+01057081,01057081,Stoltenberg,Stadt / Gemeinde
+01057082,01057082,Tröndel,Stadt / Gemeinde
+01057083,01057083,Tasdorf,Stadt / Gemeinde
+01057084,01057084,Wahlstorf,Stadt / Gemeinde
+01057085,01057085,Wankendorf,Stadt / Gemeinde
+01057086,01057086,Warnau,Stadt / Gemeinde
+01057087,01057087,Wendtorf,Stadt / Gemeinde
+01057088,01057088,Wisch (Kr. Plön),Stadt / Gemeinde
+01057089,01057089,Wittmoldt,Stadt / Gemeinde
+01057090,01057090,Fargau-Pratjau,Stadt / Gemeinde
+01057091,01057091,"Schwentinental, Stadt",Stadt / Gemeinde
+01058001,01058001,Achterwehr,Stadt / Gemeinde
+01058003,01058003,Alt Duvenstedt,Stadt / Gemeinde
+01058004,01058004,Altenhof,Stadt / Gemeinde
+01058005,01058005,Altenholz,Stadt / Gemeinde
+01058007,01058007,Arpsdorf,Stadt / Gemeinde
+01058008,01058008,Ascheffel,Stadt / Gemeinde
+01058009,01058009,Aukrug,Stadt / Gemeinde
+01058010,01058010,Bargstall,Stadt / Gemeinde
+01058011,01058011,Bargstedt,Stadt / Gemeinde
+01058012,01058012,Barkelsby,Stadt / Gemeinde
+01058013,01058013,Beldorf,Stadt / Gemeinde
+01058014,01058014,Bendorf,Stadt / Gemeinde
+01058015,01058015,Beringstedt,Stadt / Gemeinde
+01058016,01058016,Bissee,Stadt / Gemeinde
+01058018,01058018,Blumenthal,Stadt / Gemeinde
+01058019,01058019,Böhnhusen,Stadt / Gemeinde
+01058021,01058021,Bokel (Kr. Rendsburg-Eckernförde),Stadt / Gemeinde
+01058022,01058022,Bordesholm,Stadt / Gemeinde
+01058023,01058023,Borgdorf-Seedorf,Stadt / Gemeinde
+01058024,01058024,Borgstedt,Stadt / Gemeinde
+01058025,01058025,Bornholt,Stadt / Gemeinde
+01058026,01058026,Bovenau,Stadt / Gemeinde
+01058027,01058027,Brammer,Stadt / Gemeinde
+01058028,01058028,Bredenbek,Stadt / Gemeinde
+01058029,01058029,Breiholz,Stadt / Gemeinde
+01058030,01058030,Brekendorf,Stadt / Gemeinde
+01058031,01058031,Brinjahe,Stadt / Gemeinde
+01058032,01058032,Brodersby (Kr. Rendsburg-Eckernförde),Stadt / Gemeinde
+01058033,01058033,Brügge,Stadt / Gemeinde
+01058034,01058034,"Büdelsdorf, Stadt",Stadt / Gemeinde
+01058035,01058035,Bünsdorf,Stadt / Gemeinde
+01058036,01058036,Christiansholm,Stadt / Gemeinde
+01058037,01058037,Dänischenhagen,Stadt / Gemeinde
+01058038,01058038,Dätgen,Stadt / Gemeinde
+01058039,01058039,Damendorf,Stadt / Gemeinde
+01058040,01058040,Damp,Stadt / Gemeinde
+01058042,01058042,Dörphof,Stadt / Gemeinde
+01058043,01058043,"Eckernförde, Stadt",Stadt / Gemeinde
+01058044,01058044,Ehndorf,Stadt / Gemeinde
+01058045,01058045,Eisendorf,Stadt / Gemeinde
+01058046,01058046,Ellerdorf,Stadt / Gemeinde
+01058047,01058047,Elsdorf-Westermühlen,Stadt / Gemeinde
+01058048,01058048,Embühren,Stadt / Gemeinde
+01058049,01058049,Emkendorf,Stadt / Gemeinde
+01058050,01058050,Felde,Stadt / Gemeinde
+01058051,01058051,Felm,Stadt / Gemeinde
+01058052,01058052,Fleckeby,Stadt / Gemeinde
+01058053,01058053,Flintbek,Stadt / Gemeinde
+01058054,01058054,Fockbek,Stadt / Gemeinde
+01058055,01058055,Friedrichsgraben,Stadt / Gemeinde
+01058056,01058056,Friedrichsholm,Stadt / Gemeinde
+01058057,01058057,Gammelby,Stadt / Gemeinde
+01058058,01058058,Gettorf,Stadt / Gemeinde
+01058059,01058059,Gnutz,Stadt / Gemeinde
+01058061,01058061,Gokels,Stadt / Gemeinde
+01058062,01058062,Grauel,Stadt / Gemeinde
+01058063,01058063,Grevenkrug,Stadt / Gemeinde
+01058064,01058064,Groß Buchwald,Stadt / Gemeinde
+01058065,01058065,Groß Vollstedt,Stadt / Gemeinde
+01058066,01058066,Groß Wittensee,Stadt / Gemeinde
+01058067,01058067,Güby,Stadt / Gemeinde
+01058068,01058068,Haale,Stadt / Gemeinde
+01058069,01058069,Haby,Stadt / Gemeinde
+01058070,01058070,Hamdorf,Stadt / Gemeinde
+01058071,01058071,Hamweddel,Stadt / Gemeinde
+01058072,01058072,Hanerau-Hademarschen,Stadt / Gemeinde
+01058073,01058073,Haßmoor,Stadt / Gemeinde
+01058074,01058074,Heinkenborstel,Stadt / Gemeinde
+01058075,01058075,Hörsten,Stadt / Gemeinde
+01058076,01058076,Hoffeld,Stadt / Gemeinde
+01058077,01058077,Hohenwestedt,Stadt / Gemeinde
+01058078,01058078,Hohn,Stadt / Gemeinde
+01058080,01058080,Holtsee,Stadt / Gemeinde
+01058081,01058081,Holzbunge,Stadt / Gemeinde
+01058082,01058082,Holzdorf,Stadt / Gemeinde
+01058083,01058083,Hütten,Stadt / Gemeinde
+01058084,01058084,Hummelfeld,Stadt / Gemeinde
+01058085,01058085,Jahrsdorf,Stadt / Gemeinde
+01058086,01058086,Jevenstedt,Stadt / Gemeinde
+01058087,01058087,Karby,Stadt / Gemeinde
+01058088,01058088,Klein Wittensee,Stadt / Gemeinde
+01058089,01058089,Königshügel,Stadt / Gemeinde
+01058090,01058090,Kosel,Stadt / Gemeinde
+01058091,01058091,Krogaspe,Stadt / Gemeinde
+01058092,01058092,Kronshagen,Stadt / Gemeinde
+01058093,01058093,Krummwisch,Stadt / Gemeinde
+01058094,01058094,Langwedel,Stadt / Gemeinde
+01058096,01058096,Lindau,Stadt / Gemeinde
+01058097,01058097,Lohe-Föhrden,Stadt / Gemeinde
+01058098,01058098,Loop,Stadt / Gemeinde
+01058099,01058099,Loose,Stadt / Gemeinde
+01058100,01058100,Lütjenwestedt,Stadt / Gemeinde
+01058101,01058101,Luhnstedt,Stadt / Gemeinde
+01058102,01058102,Goosefeld,Stadt / Gemeinde
+01058103,01058103,Meezen,Stadt / Gemeinde
+01058104,01058104,Melsdorf,Stadt / Gemeinde
+01058105,01058105,Mielkendorf,Stadt / Gemeinde
+01058106,01058106,Mörel,Stadt / Gemeinde
+01058107,01058107,Molfsee,Stadt / Gemeinde
+01058108,01058108,Mühbrook,Stadt / Gemeinde
+01058109,01058109,Negenharrie,Stadt / Gemeinde
+01058110,01058110,Neudorf-Bornstein,Stadt / Gemeinde
+01058111,01058111,Neu Duvenstedt,Stadt / Gemeinde
+01058112,01058112,Neuwittenbek,Stadt / Gemeinde
+01058113,01058113,Nienborstel,Stadt / Gemeinde
+01058115,01058115,Nindorf (Kr. Rendsburg-Eckernförde),Stadt / Gemeinde
+01058116,01058116,Noer,Stadt / Gemeinde
+01058117,01058117,"Nortorf, Stadt (Kr. Rendsburg-Eckernförde)",Stadt / Gemeinde
+01058118,01058118,Nübbel,Stadt / Gemeinde
+01058119,01058119,Oldenbüttel,Stadt / Gemeinde
+01058120,01058120,Oldenhütten,Stadt / Gemeinde
+01058121,01058121,Osdorf,Stadt / Gemeinde
+01058122,01058122,Ostenfeld (Rendsburg),Stadt / Gemeinde
+01058123,01058123,Osterby (Kr. Rendsburg-Eckernförde),Stadt / Gemeinde
+01058124,01058124,Osterrönfeld,Stadt / Gemeinde
+01058125,01058125,Osterstedt,Stadt / Gemeinde
+01058126,01058126,Ottendorf,Stadt / Gemeinde
+01058127,01058127,Owschlag,Stadt / Gemeinde
+01058128,01058128,Padenstedt,Stadt / Gemeinde
+01058129,01058129,Prinzenmoor,Stadt / Gemeinde
+01058130,01058130,Quarnbek,Stadt / Gemeinde
+01058131,01058131,Rade b. Hohenwestedt,Stadt / Gemeinde
+01058132,01058132,Rade b. Rendsburg,Stadt / Gemeinde
+01058133,01058133,Reesdorf,Stadt / Gemeinde
+01058134,01058134,Remmels,Stadt / Gemeinde
+01058135,01058135,"Rendsburg, Stadt",Stadt / Gemeinde
+01058136,01058136,Rickert,Stadt / Gemeinde
+01058137,01058137,Rieseby,Stadt / Gemeinde
+01058138,01058138,Rodenbek,Stadt / Gemeinde
+01058139,01058139,Rumohr,Stadt / Gemeinde
+01058140,01058140,Schacht-Audorf,Stadt / Gemeinde
+01058141,01058141,Schierensee,Stadt / Gemeinde
+01058142,01058142,Schinkel,Stadt / Gemeinde
+01058143,01058143,Schmalstede,Stadt / Gemeinde
+01058144,01058144,Schönbek,Stadt / Gemeinde
+01058145,01058145,Schönhorst,Stadt / Gemeinde
+01058146,01058146,Schülldorf,Stadt / Gemeinde
+01058147,01058147,Schülp b. Nortorf,Stadt / Gemeinde
+01058148,01058148,Schülp b. Rendsburg,Stadt / Gemeinde
+01058150,01058150,Schwedeneck,Stadt / Gemeinde
+01058151,01058151,Seefeld,Stadt / Gemeinde
+01058152,01058152,Sehestedt,Stadt / Gemeinde
+01058153,01058153,Sören,Stadt / Gemeinde
+01058154,01058154,Sophienhamm,Stadt / Gemeinde
+01058155,01058155,Stafstedt,Stadt / Gemeinde
+01058156,01058156,Steenfeld,Stadt / Gemeinde
+01058157,01058157,Strande,Stadt / Gemeinde
+01058158,01058158,Tackesdorf,Stadt / Gemeinde
+01058159,01058159,Tappendorf,Stadt / Gemeinde
+01058160,01058160,Techelsdorf,Stadt / Gemeinde
+01058161,01058161,Thaden,Stadt / Gemeinde
+01058162,01058162,Thumby,Stadt / Gemeinde
+01058163,01058163,Timmaspe,Stadt / Gemeinde
+01058164,01058164,Todenbüttel,Stadt / Gemeinde
+01058165,01058165,Tüttendorf,Stadt / Gemeinde
+01058166,01058166,Waabs,Stadt / Gemeinde
+01058167,01058167,Wapelfeld,Stadt / Gemeinde
+01058168,01058168,Warder,Stadt / Gemeinde
+01058169,01058169,Wasbek,Stadt / Gemeinde
+01058170,01058170,Wattenbek,Stadt / Gemeinde
+01058171,01058171,Westensee,Stadt / Gemeinde
+01058172,01058172,Westerrönfeld,Stadt / Gemeinde
+01058173,01058173,Windeby,Stadt / Gemeinde
+01058174,01058174,Winnemark,Stadt / Gemeinde
+01058175,01058175,Ahlefeld-Bistensee,Stadt / Gemeinde
+01059001,01059001,Alt Bennebek,Stadt / Gemeinde
+01059002,01059002,"Arnis, Stadt",Stadt / Gemeinde
+01059005,01059005,Bergenhusen,Stadt / Gemeinde
+01059006,01059006,Böel,Stadt / Gemeinde
+01059008,01059008,Böklund,Stadt / Gemeinde
+01059009,01059009,Börm,Stadt / Gemeinde
+01059010,01059010,Bollingstedt,Stadt / Gemeinde
+01059012,01059012,Borgwedel,Stadt / Gemeinde
+01059018,01059018,Busdorf,Stadt / Gemeinde
+01059019,01059019,Dannewerk,Stadt / Gemeinde
+01059020,01059020,Dörpstedt,Stadt / Gemeinde
+01059023,01059023,Ellingstedt,Stadt / Gemeinde
+01059024,01059024,Erfde,Stadt / Gemeinde
+01059026,01059026,Fahrdorf,Stadt / Gemeinde
+01059032,01059032,Geltorf,Stadt / Gemeinde
+01059034,01059034,Grödersby,Stadt / Gemeinde
+01059035,01059035,Groß Rheide,Stadt / Gemeinde
+01059037,01059037,Havetoft,Stadt / Gemeinde
+01059039,01059039,Hollingstedt (Kr. Schleswig-Flensburg),Stadt / Gemeinde
+01059041,01059041,Hüsby,Stadt / Gemeinde
+01059042,01059042,Idstedt,Stadt / Gemeinde
+01059043,01059043,Jagel,Stadt / Gemeinde
+01059044,01059044,Jübek,Stadt / Gemeinde
+01059045,01059045,"Kappeln, Stadt",Stadt / Gemeinde
+01059049,01059049,Klappholz,Stadt / Gemeinde
+01059050,01059050,Klein Bennebek,Stadt / Gemeinde
+01059051,01059051,Klein Rheide,Stadt / Gemeinde
+01059053,01059053,Kropp,Stadt / Gemeinde
+01059055,01059055,Loit,Stadt / Gemeinde
+01059056,01059056,Lottorf,Stadt / Gemeinde
+01059057,01059057,Lürschau,Stadt / Gemeinde
+01059058,01059058,Meggerdorf,Stadt / Gemeinde
+01059060,01059060,Mohrkirch,Stadt / Gemeinde
+01059062,01059062,Neuberend,Stadt / Gemeinde
+01059063,01059063,Norderbrarup,Stadt / Gemeinde
+01059065,01059065,Nottfeld,Stadt / Gemeinde
+01059067,01059067,Oersberg,Stadt / Gemeinde
+01059068,01059068,Rabenkirchen-Faulück,Stadt / Gemeinde
+01059070,01059070,Rügge,Stadt / Gemeinde
+01059072,01059072,Saustrup,Stadt / Gemeinde
+01059073,01059073,Schaalby,Stadt / Gemeinde
+01059074,01059074,Scheggerott,Stadt / Gemeinde
+01059075,01059075,"Schleswig, Stadt",Stadt / Gemeinde
+01059076,01059076,Schnarup-Thumby,Stadt / Gemeinde
+01059077,01059077,Schuby,Stadt / Gemeinde
+01059078,01059078,Selk,Stadt / Gemeinde
+01059079,01059079,Silberstedt,Stadt / Gemeinde
+01059080,01059080,Steinfeld,Stadt / Gemeinde
+01059081,01059081,Stolk,Stadt / Gemeinde
+01059082,01059082,Struxdorf,Stadt / Gemeinde
+01059083,01059083,Süderbrarup,Stadt / Gemeinde
+01059084,01059084,Süderfahrenstedt,Stadt / Gemeinde
+01059086,01059086,Taarstedt,Stadt / Gemeinde
+01059087,01059087,Tetenhusen,Stadt / Gemeinde
+01059088,01059088,Tielen,Stadt / Gemeinde
+01059090,01059090,Tolk,Stadt / Gemeinde
+01059092,01059092,Treia,Stadt / Gemeinde
+01059093,01059093,Uelsby,Stadt / Gemeinde
+01059094,01059094,Ulsnis,Stadt / Gemeinde
+01059095,01059095,Wagersrott,Stadt / Gemeinde
+01059096,01059096,Wohlde,Stadt / Gemeinde
+01059097,01059097,Twedt,Stadt / Gemeinde
+01059098,01059098,Nübel,Stadt / Gemeinde
+01059102,01059102,Ahneby,Stadt / Gemeinde
+01059103,01059103,Ausacker,Stadt / Gemeinde
+01059105,01059105,Böxlund,Stadt / Gemeinde
+01059106,01059106,Dollerup,Stadt / Gemeinde
+01059107,01059107,Eggebek,Stadt / Gemeinde
+01059109,01059109,Esgrus,Stadt / Gemeinde
+01059112,01059112,Gelting,Stadt / Gemeinde
+01059113,01059113,"Glücksburg (Ostsee), Stadt",Stadt / Gemeinde
+01059115,01059115,Großenwiehe,Stadt / Gemeinde
+01059116,01059116,Großsolt,Stadt / Gemeinde
+01059118,01059118,Grundhof,Stadt / Gemeinde
+01059120,01059120,Harrislee,Stadt / Gemeinde
+01059121,01059121,Hasselberg,Stadt / Gemeinde
+01059123,01059123,Hörup,Stadt / Gemeinde
+01059124,01059124,Holt,Stadt / Gemeinde
+01059126,01059126,Hürup,Stadt / Gemeinde
+01059127,01059127,Husby,Stadt / Gemeinde
+01059128,01059128,Janneby,Stadt / Gemeinde
+01059129,01059129,Jardelund,Stadt / Gemeinde
+01059131,01059131,Jerrishoe,Stadt / Gemeinde
+01059132,01059132,Jörl,Stadt / Gemeinde
+01059136,01059136,Kronsgaard,Stadt / Gemeinde
+01059137,01059137,Langballig,Stadt / Gemeinde
+01059138,01059138,Langstedt,Stadt / Gemeinde
+01059142,01059142,Maasholm,Stadt / Gemeinde
+01059143,01059143,Medelby,Stadt / Gemeinde
+01059144,01059144,Meyn,Stadt / Gemeinde
+01059145,01059145,Munkbrarup,Stadt / Gemeinde
+01059147,01059147,Nieby,Stadt / Gemeinde
+01059148,01059148,Niesgrau,Stadt / Gemeinde
+01059149,01059149,Nordhackstedt,Stadt / Gemeinde
+01059151,01059151,Osterby (Kr. Schleswig-Flensburg),Stadt / Gemeinde
+01059152,01059152,Pommerby,Stadt / Gemeinde
+01059154,01059154,Rabel,Stadt / Gemeinde
+01059155,01059155,Rabenholz,Stadt / Gemeinde
+01059157,01059157,Ringsberg,Stadt / Gemeinde
+01059158,01059158,Schafflund,Stadt / Gemeinde
+01059159,01059159,Sieverstedt,Stadt / Gemeinde
+01059161,01059161,Sörup,Stadt / Gemeinde
+01059162,01059162,Sollerup,Stadt / Gemeinde
+01059163,01059163,Stangheck,Stadt / Gemeinde
+01059164,01059164,Steinberg,Stadt / Gemeinde
+01059167,01059167,Sterup,Stadt / Gemeinde
+01059168,01059168,Stoltebüll,Stadt / Gemeinde
+01059169,01059169,Süderhackstedt,Stadt / Gemeinde
+01059171,01059171,Tarp,Stadt / Gemeinde
+01059173,01059173,Wallsbüll,Stadt / Gemeinde
+01059174,01059174,Wanderup,Stadt / Gemeinde
+01059176,01059176,Wees,Stadt / Gemeinde
+01059177,01059177,Weesby,Stadt / Gemeinde
+01059178,01059178,Westerholz,Stadt / Gemeinde
+01059179,01059179,Lindewitt,Stadt / Gemeinde
+01059182,01059182,Freienwill,Stadt / Gemeinde
+01059183,01059183,Handewitt,Stadt / Gemeinde
+01059184,01059184,Oeversee,Stadt / Gemeinde
+01059185,01059185,Mittelangeln,Stadt / Gemeinde
+01059186,01059186,Steinbergkirche,Stadt / Gemeinde
+01059187,01059187,Boren,Stadt / Gemeinde
+01059188,01059188,Stapel,Stadt / Gemeinde
+01059189,01059189,Brodersby-Goltoft (Kr. Schleswig-Flensburg),Stadt / Gemeinde
+01060002,01060002,Alveslohe,Stadt / Gemeinde
+01060003,01060003,Armstedt,Stadt / Gemeinde
+01060004,01060004,"Bad Bramstedt, Stadt",Stadt / Gemeinde
+01060005,01060005,"Bad Segeberg, Stadt",Stadt / Gemeinde
+01060006,01060006,Bahrenhof,Stadt / Gemeinde
+01060007,01060007,Bark,Stadt / Gemeinde
+01060008,01060008,Bebensee,Stadt / Gemeinde
+01060009,01060009,Bimöhlen,Stadt / Gemeinde
+01060010,01060010,Blunk,Stadt / Gemeinde
+01060011,01060011,Boostedt,Stadt / Gemeinde
+01060012,01060012,Bornhöved,Stadt / Gemeinde
+01060013,01060013,Borstel,Stadt / Gemeinde
+01060014,01060014,"Buchholz, Forstgutsbezirk (Kr. Segeberg)",Stadt / Gemeinde
+01060015,01060015,Bühnsdorf,Stadt / Gemeinde
+01060016,01060016,Daldorf,Stadt / Gemeinde
+01060017,01060017,Damsdorf,Stadt / Gemeinde
+01060018,01060018,Dreggers,Stadt / Gemeinde
+01060019,01060019,Ellerau,Stadt / Gemeinde
+01060020,01060020,Fahrenkrug,Stadt / Gemeinde
+01060021,01060021,Föhrden-Barl,Stadt / Gemeinde
+01060022,01060022,Fredesdorf,Stadt / Gemeinde
+01060023,01060023,Fuhlendorf,Stadt / Gemeinde
+01060024,01060024,Geschendorf,Stadt / Gemeinde
+01060025,01060025,Glasau,Stadt / Gemeinde
+01060026,01060026,Gönnebek,Stadt / Gemeinde
+01060027,01060027,Großenaspe,Stadt / Gemeinde
+01060028,01060028,Groß Kummerfeld,Stadt / Gemeinde
+01060029,01060029,Groß Niendorf,Stadt / Gemeinde
+01060030,01060030,Groß Rönnau,Stadt / Gemeinde
+01060031,01060031,Hagen,Stadt / Gemeinde
+01060033,01060033,Hardebek,Stadt / Gemeinde
+01060034,01060034,Hartenholm,Stadt / Gemeinde
+01060035,01060035,Hasenkrug,Stadt / Gemeinde
+01060036,01060036,Hasenmoor,Stadt / Gemeinde
+01060037,01060037,Heidmoor,Stadt / Gemeinde
+01060038,01060038,Heidmühlen,Stadt / Gemeinde
+01060039,01060039,Henstedt-Ulzburg,Stadt / Gemeinde
+01060040,01060040,Hitzhusen,Stadt / Gemeinde
+01060041,01060041,Högersdorf,Stadt / Gemeinde
+01060042,01060042,Hüttblek,Stadt / Gemeinde
+01060043,01060043,Itzstedt,Stadt / Gemeinde
+01060044,01060044,"Kaltenkirchen, Stadt",Stadt / Gemeinde
+01060045,01060045,Kattendorf,Stadt / Gemeinde
+01060046,01060046,Kayhude,Stadt / Gemeinde
+01060047,01060047,Kisdorf,Stadt / Gemeinde
+01060048,01060048,Klein Gladebrügge,Stadt / Gemeinde
+01060049,01060049,Klein Rönnau,Stadt / Gemeinde
+01060050,01060050,Krems II,Stadt / Gemeinde
+01060051,01060051,Kükels,Stadt / Gemeinde
+01060052,01060052,Latendorf,Stadt / Gemeinde
+01060053,01060053,Leezen,Stadt / Gemeinde
+01060054,01060054,Lentföhrden,Stadt / Gemeinde
+01060056,01060056,Mönkloh,Stadt / Gemeinde
+01060057,01060057,Mözen,Stadt / Gemeinde
+01060058,01060058,Nahe,Stadt / Gemeinde
+01060059,01060059,Negernbötel,Stadt / Gemeinde
+01060060,01060060,Nehms,Stadt / Gemeinde
+01060061,01060061,Neuengörs,Stadt / Gemeinde
+01060062,01060062,Neversdorf,Stadt / Gemeinde
+01060063,01060063,"Norderstedt, Stadt",Stadt / Gemeinde
+01060064,01060064,Nützen,Stadt / Gemeinde
+01060065,01060065,Oering,Stadt / Gemeinde
+01060066,01060066,Oersdorf,Stadt / Gemeinde
+01060067,01060067,Pronstorf,Stadt / Gemeinde
+01060068,01060068,Rickling,Stadt / Gemeinde
+01060069,01060069,Rohlstorf,Stadt / Gemeinde
+01060070,01060070,Schackendorf,Stadt / Gemeinde
+01060071,01060071,Schieren,Stadt / Gemeinde
+01060072,01060072,Schmalensee,Stadt / Gemeinde
+01060073,01060073,Schmalfeld,Stadt / Gemeinde
+01060074,01060074,Schwissel,Stadt / Gemeinde
+01060075,01060075,Seedorf (Kr. Segeberg),Stadt / Gemeinde
+01060076,01060076,Seth,Stadt / Gemeinde
+01060077,01060077,Sievershütten,Stadt / Gemeinde
+01060079,01060079,Stipsdorf,Stadt / Gemeinde
+01060080,01060080,Stocksee,Stadt / Gemeinde
+01060081,01060081,Strukdorf,Stadt / Gemeinde
+01060082,01060082,Struvenhütten,Stadt / Gemeinde
+01060084,01060084,Stuvenborn,Stadt / Gemeinde
+01060085,01060085,Sülfeld,Stadt / Gemeinde
+01060086,01060086,Tarbek,Stadt / Gemeinde
+01060087,01060087,Tensfeld,Stadt / Gemeinde
+01060088,01060088,Todesfelde,Stadt / Gemeinde
+01060089,01060089,Trappenkamp,Stadt / Gemeinde
+01060090,01060090,Travenhorst,Stadt / Gemeinde
+01060091,01060091,Traventhal,Stadt / Gemeinde
+01060092,01060092,"Wahlstedt, Stadt",Stadt / Gemeinde
+01060093,01060093,Wakendorf I,Stadt / Gemeinde
+01060094,01060094,Wakendorf II,Stadt / Gemeinde
+01060095,01060095,Weddelbrook,Stadt / Gemeinde
+01060096,01060096,Weede,Stadt / Gemeinde
+01060097,01060097,Wensin,Stadt / Gemeinde
+01060098,01060098,Westerrade,Stadt / Gemeinde
+01060099,01060099,Wiemersdorf,Stadt / Gemeinde
+01060100,01060100,Winsen,Stadt / Gemeinde
+01060101,01060101,Wittenborn,Stadt / Gemeinde
+01061001,01061001,Aasbüttel,Stadt / Gemeinde
+01061002,01061002,Aebtissinwisch,Stadt / Gemeinde
+01061003,01061003,Agethorst,Stadt / Gemeinde
+01061004,01061004,Altenmoor,Stadt / Gemeinde
+01061005,01061005,Auufer,Stadt / Gemeinde
+01061006,01061006,Bahrenfleth,Stadt / Gemeinde
+01061007,01061007,Beidenfleth,Stadt / Gemeinde
+01061008,01061008,Bekdorf,Stadt / Gemeinde
+01061010,01061010,Bekmünde,Stadt / Gemeinde
+01061011,01061011,Besdorf,Stadt / Gemeinde
+01061012,01061012,Blomesche Wildnis,Stadt / Gemeinde
+01061013,01061013,Bokelrehm,Stadt / Gemeinde
+01061014,01061014,Bokhorst,Stadt / Gemeinde
+01061015,01061015,Borsfleth,Stadt / Gemeinde
+01061016,01061016,Breitenberg,Stadt / Gemeinde
+01061017,01061017,Breitenburg,Stadt / Gemeinde
+01061018,01061018,Brokdorf,Stadt / Gemeinde
+01061019,01061019,Brokstedt,Stadt / Gemeinde
+01061020,01061020,Büttel,Stadt / Gemeinde
+01061021,01061021,Christinenthal,Stadt / Gemeinde
+01061022,01061022,Dägeling,Stadt / Gemeinde
+01061023,01061023,Dammfleth,Stadt / Gemeinde
+01061024,01061024,Drage (Kr. Steinburg),Stadt / Gemeinde
+01061025,01061025,Ecklak,Stadt / Gemeinde
+01061026,01061026,Elskop,Stadt / Gemeinde
+01061027,01061027,Engelbrechtsche Wildnis,Stadt / Gemeinde
+01061028,01061028,Fitzbek,Stadt / Gemeinde
+01061029,01061029,"Glückstadt, Stadt",Stadt / Gemeinde
+01061030,01061030,Grevenkop,Stadt / Gemeinde
+01061031,01061031,Gribbohm,Stadt / Gemeinde
+01061033,01061033,Hadenfeld,Stadt / Gemeinde
+01061034,01061034,Heiligenstedten,Stadt / Gemeinde
+01061035,01061035,Heiligenstedtenerkamp,Stadt / Gemeinde
+01061036,01061036,Hennstedt (Kr. Steinburg),Stadt / Gemeinde
+01061037,01061037,Herzhorn,Stadt / Gemeinde
+01061038,01061038,Hingstheide,Stadt / Gemeinde
+01061039,01061039,Hodorf,Stadt / Gemeinde
+01061040,01061040,Hohenaspe,Stadt / Gemeinde
+01061041,01061041,Hohenfelde (Kr. Steinburg),Stadt / Gemeinde
+01061042,01061042,Hohenlockstedt,Stadt / Gemeinde
+01061043,01061043,Holstenniendorf,Stadt / Gemeinde
+01061044,01061044,Horst (Holstein) (Kr. Steinburg),Stadt / Gemeinde
+01061045,01061045,Huje,Stadt / Gemeinde
+01061046,01061046,"Itzehoe, Stadt",Stadt / Gemeinde
+01061047,01061047,Kaaks,Stadt / Gemeinde
+01061048,01061048,Kaisborstel,Stadt / Gemeinde
+01061049,01061049,"Kellinghusen, Stadt",Stadt / Gemeinde
+01061050,01061050,Kiebitzreihe,Stadt / Gemeinde
+01061052,01061052,Kleve (Kr. Steinburg),Stadt / Gemeinde
+01061053,01061053,Kollmoor,Stadt / Gemeinde
+01061054,01061054,Krempdorf,Stadt / Gemeinde
+01061055,01061055,"Krempe, Stadt",Stadt / Gemeinde
+01061056,01061056,Kremperheide,Stadt / Gemeinde
+01061057,01061057,Krempermoor,Stadt / Gemeinde
+01061058,01061058,Kronsmoor,Stadt / Gemeinde
+01061059,01061059,Krummendiek,Stadt / Gemeinde
+01061060,01061060,Kudensee,Stadt / Gemeinde
+01061061,01061061,Lägerdorf,Stadt / Gemeinde
+01061062,01061062,Landrecht,Stadt / Gemeinde
+01061063,01061063,Landscheide,Stadt / Gemeinde
+01061064,01061064,Lockstedt,Stadt / Gemeinde
+01061065,01061065,Lohbarbek,Stadt / Gemeinde
+01061066,01061066,Looft,Stadt / Gemeinde
+01061067,01061067,Mehlbek,Stadt / Gemeinde
+01061068,01061068,Moordiek,Stadt / Gemeinde
+01061070,01061070,Moorhusen,Stadt / Gemeinde
+01061071,01061071,Mühlenbarbek,Stadt / Gemeinde
+01061072,01061072,Münsterdorf,Stadt / Gemeinde
+01061073,01061073,Neuenbrook,Stadt / Gemeinde
+01061074,01061074,Neuendorf b. Elmshorn,Stadt / Gemeinde
+01061076,01061076,Nienbüttel,Stadt / Gemeinde
+01061077,01061077,Nortorf (Kr. Steinburg),Stadt / Gemeinde
+01061078,01061078,Nutteln,Stadt / Gemeinde
+01061079,01061079,Oelixdorf,Stadt / Gemeinde
+01061080,01061080,Oeschebüttel,Stadt / Gemeinde
+01061081,01061081,Oldenborstel,Stadt / Gemeinde
+01061082,01061082,Oldendorf,Stadt / Gemeinde
+01061083,01061083,Ottenbüttel,Stadt / Gemeinde
+01061084,01061084,Peissen,Stadt / Gemeinde
+01061085,01061085,Pöschendorf,Stadt / Gemeinde
+01061086,01061086,Poyenberg,Stadt / Gemeinde
+01061087,01061087,Puls,Stadt / Gemeinde
+01061088,01061088,Quarnstedt,Stadt / Gemeinde
+01061089,01061089,Rade,Stadt / Gemeinde
+01061091,01061091,Reher,Stadt / Gemeinde
+01061092,01061092,Rethwisch (Kr. Steinburg),Stadt / Gemeinde
+01061093,01061093,Rosdorf,Stadt / Gemeinde
+01061095,01061095,Sankt Margarethen,Stadt / Gemeinde
+01061096,01061096,Sarlhusen,Stadt / Gemeinde
+01061097,01061097,Schenefeld (Kr. Steinburg),Stadt / Gemeinde
+01061098,01061098,Schlotfeld,Stadt / Gemeinde
+01061100,01061100,Silzen,Stadt / Gemeinde
+01061101,01061101,Sommerland,Stadt / Gemeinde
+01061102,01061102,Stördorf,Stadt / Gemeinde
+01061103,01061103,Störkathen,Stadt / Gemeinde
+01061104,01061104,Süderau,Stadt / Gemeinde
+01061105,01061105,Vaale,Stadt / Gemeinde
+01061106,01061106,Vaalermoor,Stadt / Gemeinde
+01061107,01061107,Wacken,Stadt / Gemeinde
+01061108,01061108,Warringholz,Stadt / Gemeinde
+01061109,01061109,Westermoor,Stadt / Gemeinde
+01061110,01061110,Wewelsfleth,Stadt / Gemeinde
+01061111,01061111,Wiedenborstel,Stadt / Gemeinde
+01061112,01061112,Willenscharen,Stadt / Gemeinde
+01061113,01061113,"Wilster, Stadt",Stadt / Gemeinde
+01061114,01061114,Winseldorf,Stadt / Gemeinde
+01061115,01061115,Wittenbergen,Stadt / Gemeinde
+01061116,01061116,Wrist,Stadt / Gemeinde
+01061117,01061117,Wulfsmoor,Stadt / Gemeinde
+01061118,01061118,Kollmar,Stadt / Gemeinde
+01061119,01061119,Neuendorf-Sachsenbande,Stadt / Gemeinde
+01062001,01062001,"Ahrensburg, Stadt",Stadt / Gemeinde
+01062003,01062003,Badendorf,Stadt / Gemeinde
+01062004,01062004,"Bad Oldesloe, Stadt",Stadt / Gemeinde
+01062005,01062005,Bargfeld-Stegen,Stadt / Gemeinde
+01062006,01062006,"Bargteheide, Stadt",Stadt / Gemeinde
+01062008,01062008,Barnitz,Stadt / Gemeinde
+01062009,01062009,Barsbüttel,Stadt / Gemeinde
+01062011,01062011,Braak,Stadt / Gemeinde
+01062014,01062014,Delingsdorf,Stadt / Gemeinde
+01062016,01062016,Elmenhorst (Kr. Stormarn),Stadt / Gemeinde
+01062018,01062018,"Glinde, Stadt",Stadt / Gemeinde
+01062019,01062019,Grabau (Kr. Stormarn),Stadt / Gemeinde
+01062020,01062020,Grande,Stadt / Gemeinde
+01062021,01062021,Grönwohld,Stadt / Gemeinde
+01062022,01062022,Großensee,Stadt / Gemeinde
+01062023,01062023,Großhansdorf,Stadt / Gemeinde
+01062025,01062025,Hamberge,Stadt / Gemeinde
+01062026,01062026,Hamfelde (Kr. Stormarn),Stadt / Gemeinde
+01062027,01062027,Hammoor,Stadt / Gemeinde
+01062031,01062031,Heidekamp,Stadt / Gemeinde
+01062032,01062032,Heilshoop,Stadt / Gemeinde
+01062033,01062033,Hohenfelde (Kr. Stormarn),Stadt / Gemeinde
+01062035,01062035,Hoisdorf,Stadt / Gemeinde
+01062036,01062036,Jersbek,Stadt / Gemeinde
+01062039,01062039,Klein Wesenberg,Stadt / Gemeinde
+01062040,01062040,Köthel (Kr. Stormarn),Stadt / Gemeinde
+01062045,01062045,Lütjensee,Stadt / Gemeinde
+01062046,01062046,Meddewade,Stadt / Gemeinde
+01062048,01062048,Mönkhagen,Stadt / Gemeinde
+01062050,01062050,Neritz,Stadt / Gemeinde
+01062051,01062051,Nienwohld,Stadt / Gemeinde
+01062053,01062053,Oststeinbek,Stadt / Gemeinde
+01062056,01062056,Pölitz,Stadt / Gemeinde
+01062058,01062058,Rausdorf,Stadt / Gemeinde
+01062059,01062059,Rehhorst,Stadt / Gemeinde
+01062060,01062060,"Reinbek, Stadt",Stadt / Gemeinde
+01062061,01062061,"Reinfeld (Holstein), Stadt",Stadt / Gemeinde
+01062062,01062062,Rethwisch (Kr. Stormarn),Stadt / Gemeinde
+01062065,01062065,Rümpel,Stadt / Gemeinde
+01062069,01062069,Siek,Stadt / Gemeinde
+01062071,01062071,Stapelfeld,Stadt / Gemeinde
+01062076,01062076,Tangstedt (Kr. Stormarn),Stadt / Gemeinde
+01062078,01062078,Todendorf,Stadt / Gemeinde
+01062081,01062081,Tremsbüttel,Stadt / Gemeinde
+01062082,01062082,Trittau,Stadt / Gemeinde
+01062083,01062083,Westerau,Stadt / Gemeinde
+01062086,01062086,Witzhave,Stadt / Gemeinde
+01062087,01062087,Zarpen,Stadt / Gemeinde
+01062088,01062088,Brunsbek,Stadt / Gemeinde
+01062089,01062089,Lasbek,Stadt / Gemeinde
+01062090,01062090,Ammersbek,Stadt / Gemeinde
+01062091,01062091,Steinburg,Stadt / Gemeinde
+01062092,01062092,Travenbrück,Stadt / Gemeinde
+01062093,01062093,Feldhorst,Stadt / Gemeinde
+01062094,01062094,Wesenberg,Stadt / Gemeinde

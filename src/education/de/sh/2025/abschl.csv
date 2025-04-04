@@ -1,0 +1,13 @@
+code,shortName,longName,comment
+01,01,Ohne Abschluss,
+03,03,Hauptschulabschluss bzw. erster allgemeinbildender Schulabschluss (ESA) oder gleichwertiger Abschluss,
+04,04,Erweiterter Hauptschulabschluss,
+05,05,Realschulabschluss bzw. Mittlerer Schulabschluss (MSA) oder gleichwertiger Abschluss,
+06,06,Fachhochschulreife (schulischer Teil),
+07,07,allgemeine Hochschulreife (Abitur),
+10,10,fachgebundene Hochschulreife,
+13,13,Sopäd. Abschluss FSP Lernen,
+14,14,Sopäd. Abschluss FSP Geistige Entwicklung,
+15,15,erster allgemeinbildender Schulabschluss (mit Berechtigung zum Zugang der Oberstufe),nur G8
+16,16,Fachhochschulreife (vollständig),nur an bbS möglich
+17,17,Berufliche Hochschulzugangsberechtigung,nur an bbS möglich

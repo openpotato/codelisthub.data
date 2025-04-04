@@ -1,0 +1,6 @@
+code,shortName,longName,comment
+01,01,Bildungsgang nicht vollst. durchlaufen,
+02,02,Bildungsgang vollst. durchlaufen ohne Erfolg,
+03,03,Bildungsgang vollst. durchlaufen mit Erfolg ,
+04,04,Bildungsgang nicht vollst. durchlaufen mit Erfolg ,nur AV-SH und BG mit Abschluss FHR
+05,05,Schulortwechsel wegen Fachklassenbildung,

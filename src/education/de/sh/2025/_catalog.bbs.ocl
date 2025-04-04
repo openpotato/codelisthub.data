@@ -1,0 +1,307 @@
+{
+  "$opencodelist": "0.3.0",
+  "codeListSet": {
+    "annotation": {
+      "descriptions": [
+        {
+          "format": "text",
+          "language": "de",
+          "content": "Die Schlüssel sind der offiziellen Schnittstellendefinition 2024/2025 des Ministeriums für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur des Landes Schleswig-Holstein und des Statistischen Amts für Hamburg und Schleswig-Holstein entnommen: https://www.schleswig-holstein.de/DE/fachinhalte/S/schulverwaltung/schulstatistik."
+        }
+      ]
+    },
+    "identification": {
+      "language": "de",
+      "shortName": "Schlüsselverzeichnisse BBS 2024/2025",
+      "longName": "Schulstatistik 2024/2025 Schleswig-Holstein - Schlüsselverzeichnisse für berufsbildende Schulen 2024/2025",
+      "version": "v2025",
+      "canonicalUri": "urn:education:de:sh:codelist:catalog:bbs",
+      "canonicalVersionUri": "urn:education:de:sh:codelist:catalog:bbs:v2025",
+      "tags": [
+        "bbs"
+      ],
+      "locationUrls": [
+        "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Acatalog%3Abbs%3Av2025"
+      ],
+      "alternateFormatLocations": [
+        {
+          "mimeType": "text/csv",
+          "url": "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Acatalog%3Abbs%3Av2025"
+        }
+      ],
+      "validFrom": "2025-04-01T12:00:00Z",
+      "publishedAt": "2025-04-04T12:00:00Z",
+      "publisher": {
+        "shortName": "CodeListHub",
+        "longName": "CodeListHub Projekt",
+        "url": "https://www.codelisthub.org/de"
+      }
+    },
+    "referenceSet": [
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:abschl",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:abschl:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aabschl%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:abschlbs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:abschlbs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aabschlbs%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:absf",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:absf:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aabsf%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:absvorbbs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:absvorbbs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aabsvorbbs%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:beruf",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:beruf:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aberuf%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:bfklbs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:bfklbs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Abfklbs%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:bgra",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:bgra:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Abgra%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:bgrz",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:bgrz:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Abgrz%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:bschu",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:bschu:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Abschu%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:dist",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:dist:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Adist%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:fach",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:fach:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Afach%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:fswp",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:fswp:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Afswp%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:gkz",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:gkz:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Agkz%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:gs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:gs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Ags%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:iföz",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:iföz:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aiföz%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:jgstuf",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:jgstuf:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Ajgstuf%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:klk",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:klk:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aklk%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:konf",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:klk:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Akonf%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:kurs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:kurs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Akurs%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:laufb",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:laufb:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Alaufb%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:lebf",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:lebf:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Alebf%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:mass",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:mass:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Amass%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:profil",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:profil:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aprofil%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:rsta",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:rsta:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Arsta%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:sart",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:sart:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Asart%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:sform",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:sform:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Asform%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:slgs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:slgs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aslgs%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:staat",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:staat:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Astaat%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:stg",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:stg:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Astg%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:traeg",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:traeg:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Atraeg%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:ufbl",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:ufbl:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Aufbl%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:verkspr",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:verkspr:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Averkspr%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListRef",
+        "canonicalUri": "urn:education:de:sh:codelist:zuskurs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:zuskurs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Azuskurs%3Av2025"
+        ]
+      }
+    ]
+  }
+}

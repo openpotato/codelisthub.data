@@ -1,0 +1,11 @@
+code,shortName,longName,comment
+P,P,Pflicht,
+U,U,Förderunterricht,
+W,W,Wahlpflichtangebot,7. bis 9./10. Jahrgangsstufe
+F,F,freiwilliger Unterricht (einschl. AGs),
+G,G,profilgebend / Profilfach,nur Sek II
+H,H,"Kernfach, erhöhtes Niveau",nur Q1 / Q2
+M,M,"Kernfach, grundlegendes Niveau","nur Sek II (E, Q1, Q2)"
+A,A,Wahlfach aus Kontingentstundentafel,Pflichtunterricht
+O,O,Online-Kurs,freiwilliger Unterricht
+E,E,Profilergänzendes Fach ,affines Fach gem. § 8 OAPVO

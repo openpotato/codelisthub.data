@@ -1,0 +1,11 @@
+code,shortName,longName,comment
+01,01,Land,
+02,02,Kreis/Kreisfreie Stadt,
+03,03,Gemeinde,
+04,04,Amt,
+05,05,Schulverband,
+06,06,Freier (privater) Träger,
+07,07,Dänischer Schulverein,
+08,08,Kammer,
+10,10,Anstalt öff. Rechts,
+09,09,sonstiger Träger,

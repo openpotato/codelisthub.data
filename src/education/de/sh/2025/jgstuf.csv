@@ -1,0 +1,18 @@
+code,shortName,longName,comment
+01,01,1. Jahrgangsstufe,
+02,02,2. Jahrgangsstufe,
+03,03,3. Jahrgangsstufe,
+04,04,4. Jahrgangsstufe,
+05,05,5. Jahrgangsstufe,
+06,06,6. Jahrgangsstufe,
+07,07,7. Jahrgangsstufe,
+08,08,8. Jahrgangsstufe,
+09,09,9. Jahrgangsstufe,
+10,10,10. Jahrgangsstufe,
+E,E,Einführungsphase,Profiloberstufe
+Q1,Q1,Qualifikationsphase 1,Profiloberstufe
+Q2,Q2,Qualifikationsphase 2,Profiloberstufe
+Q3,Q3,Qualifikationsphase 3,"nur für BG Biotechnik, Sozialpädagogik"
+PS,PS,Primarstufe,nur FöZ für Geistige Entwicklung
+SS,SS,Sekundarstufe,nur FöZ für Geistige Entwicklung
+BS,BS,Berufsbildungsstufe,nur FöZ für Geistige Entwicklung

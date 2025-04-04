@@ -1,0 +1,59 @@
+{
+  "$opencodelist": "0.3.0",
+  "codeListSet": {
+    "annotation": {
+      "descriptions": [
+        {
+          "format": "text",
+          "language": "de",
+          "content": "Die Schlüssel sind der offiziellen Schnittstellendefinition 2024/2025 des Ministeriums für Allgemeine und Berufliche Bildung, Wissenschaft, Forschung und Kultur des Landes Schleswig-Holstein und des Statistischen Amts für Hamburg und Schleswig-Holstein entnommen: https://www.schleswig-holstein.de/DE/fachinhalte/S/schulverwaltung/schulstatistik."
+        }
+      ]
+    },
+    "identification": {
+      "language": "de",
+      "shortName": "Schlüsselverzeichnisse ABS und BBS 2024/2025",
+      "longName": "Schulstatistik 2024/2025 Schleswig-Holstein - Schlüsselverzeichnisse für allgemeinbildende und berufsbildende Schulen 2024/2025",
+      "version": "v2025",
+      "canonicalUri": "urn:education:de:sh:codelist:catalog",
+      "canonicalVersionUri": "urn:education:de:sh:codelist:catalog:v2025",
+      "tags": [
+        "abs",
+        "bbs"
+      ],
+      "locationUrls": [
+        "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Acatalog%3Av2025"
+      ],
+      "alternateFormatLocations": [
+        {
+          "mimeType": "text/csv",
+          "url": "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Acatalog%3Av2025"
+        }
+      ],
+      "publishedAt": "2025-04-04T12:00:00Z",
+      "publisher": {
+        "shortName": "CodeListHub",
+        "longName": "CodeListHub Projekt",
+        "url": "https://www.codelisthub.org/de"
+      }
+    },
+    "referenceSet": [
+      {
+        "type": "codeListSetRef",
+        "canonicalUri": "urn:education:de:sh:codelist:catalog:abs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:catalog:abs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Acatalog%3Aabs%3Av2025"
+        ]
+      },
+      {
+        "type": "codeListSetRef",
+        "canonicalUri": "urn:education:de:sh:codelist:catalog:bbs",
+        "canonicalVersionUri": "urn:education:de:sh:codelist:catalog:bbs:v2025",
+        "locationUrls": [
+          "https://api.codelisthub.org/v1/documents/urn%3Aeducation%3Ade%3Ash%3Acodelist%3Acatalog%3Abbs%3Av2025"
+        ]
+     }
+    ]
+  }
+}

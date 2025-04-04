@@ -1,0 +1,373 @@
+code,shortName,longName,mass,comment
+01AMD,01AMD,Automatenfachfrau/Automatenfachmann FR Automatendienstleistung,201,3j.
+01AMM,01AMM,Automatenfachfrau/Automatenfachmann FR Automatenmechatronik,201,3j.
+01AUK,01AUK,Automobilkauffrau/Automobilkaufmann,201,3j.
+01BA2,01BA2,Bankkauffrau/Bankkaufmann,201,3j.
+01BKF,01BKF,Berufskraftfahrerin/Berufskraftfahrer,201,3j.
+01BUC,01BUC,Buchhändlerin/Buchhändler,201,3j.
+01DRO,01DRO,Drogistin/Drogist,201,3j.
+01FAD,01FAD,Fachangestellte/Fachangestellter für Arbeitsmarktdienstleistungen,201,3j.
+01FAB,01FAB,Fachangestellte/Fachangestellter für Bäderbetriebe,201,3j.
+01FMS,01FMS,Fachangestellte/Fachangestellter für Markt- und Sozialforschung,201,3j.
+01FKE,01FKE,"Fachkraft für Kurier-, Express- und Postdienstleistungen",201,2j.
+01FHL,01FHL,Fachkraft für Hafenlogistik,201,3j.
+01FLL,01FLL,Fachkraft für Lagerlogistik,201,3j.
+01FSS,01FSS,Fachkraft für Schutz und Sicherheit,201,3j.
+01FLA,01FLA,Fachlageristin/Fachlagerist,201,2j.
+01FMF,01FMF,Fotomedienfachfrau/Fotomedienfachmann,201,3j.
+01IMK,01IMK,Immobilienkauffrau/Immobilienkaufmann,201,3j.
+01INK,01INK,Industriekauffrau/Industriekaufmann,201,"3j., auslaufend (ab 2024)"
+01IDK,01IDK,Industriekauffrau/Industriekaufmann,201,"3j., neue Stundentafel ab 08/2024"
+01JFA,01JFA,Justizfachangestellte/Justizfachangestellter,201,3j.
+01KBM,01KBM,Kauffrau/Kaufmann für Büromanagement,201,3j.
+01KDM,01KDM,Kauffrau/Kaufmann für Dialogmarketing,201,3j.
+01KDS,01KDS,Kauffrau/Kaufmann für Digitalisierungsmanagement,201,3j.
+01KIT,01KIT,Kauffrau/Kaufmann für IT-System-Management,201,3j.
+01KKE,01KKE,"Kauffrau/Kaufmann für Kurier-, Express- und Postdienstleistungen",201,3j.
+01KMK,01KMK,Kauffrau/Kaufmann für Marketingkommunikation,201,3j.
+01KSL,01KSL,Kauffrau/Kaufmann für Spedition und Logistikdienstleistung,201,3j.
+01KTF,01KTF,Kauffrau/Kaufmann für Tourismus und Freizeit,201,3j.
+01KVA,01KVA,Kauffrau/Kaufmann für Versicherungen und Finanzanlagen,201,3j.
+01KEC,01KEC,Kauffrau/Kaufmann im E-Commerce,201,3j.
+01KEH,01KEH,Kauffrau/Kaufmann im Einzelhandel,201,3j.
+01KAG,01KAG,Kauffrau/Kaufmann im Gesundheitswesen,201,3j.
+01KGA,01KGA,Kauffrau/Kaufmann im Groß- und Außenhandelsmanagement Fachrichtung Außenhandel,201,3j.
+01KGG,01KGG,Kauffrau/Kaufmann im Groß- und Außenhandelsmanagement Fachrichtung Großhandel,201,3j.
+01KMD,01KMD,Medienkauffrau/Medienkaufmann Digital und Print,201,3j.
+01NFA,01NFA,Notarfachangestellte/Notarfachangestellter,201,3j.
+01PDK,01PDK,Personaldienstleistungskauffrau/Personaldienstleistungskaufmann,201,3j.
+01PKA,01PKA,Pharmazeutisch-kaufmännische Angestellte/Angestellter,201,3j.
+01RNF,01RNF,Rechtsanwalts- und Notarfachangestellte/Rechtsanwalts- und Notarfachangestellter,201,3j.
+01RFA,01RFA,Rechtsanwaltsfachangestellte/Rechtsanwaltsfachangestellter,201,3j.
+01SI2,01SI2,Schifffahrtskauffrau/Schifffahrtskaufmann Fachrichtung Linienfahrt,201,3j.
+01SI1,01SI1,Schifffahrtskauffrau/Schifffahrtskaufmann Fachrichtung Trampfahrt,201,3j.
+01SFD,01SFD,Servicefachkraft für Dialogmarketing,201,3j.
+01SSS,01SSS,Servicekraft für Schutz und Sicherheit,201,2j.
+01SEF,01SEF,Servicefahrerin/Servicefahrer,201,2j.
+01SO1,01SO1,Sozialversicherungsfachangestellte/-fachangestellter Fachrichtung Allgemeine Krankenversicherung,201,3j.
+01SO2,01SO2,Sozialversicherungsfachangestellte/-fachangestellter Fachrichtung Gesetzliche Unfallversicherung,201,3j.
+01SO3,01SO3,Sozialversicherungsfachangestellte/-fachangestellter Fachrichtung Gesetzliche Rentenversicherung,201,3j.
+01SO4,01SO4,Sozialversicherungsfachangestellte/-fachangestellter Fachrichtung Knappschaftliche Sozialvers.,201,3j.
+01SO5,01SO5,Sozialversicherungsfachangestellte/-fachangestellter Fachrichtung Landwirtschaftliche Sozialvers.,201,3j.
+01SFK,01SFK,Sport- und Fitnesskauffrau/Sport- und Fitnesskaufmann,201,3j.
+01SOK,01SOK,Sportfachfrau/Sportfachmann,201,3j.
+01SFA,01SFA,Steuerfachangestellte/Steuerfachangestellter,201,3j.
+01TAN,01TAN,Tankwartin/Tankwart,201,3j.
+01TPG,01TPG,Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen)/Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen),201,3j.
+01VAK,01VAK,Veranstaltungskauffrau/Veranstaltungskaufmann,201,3j.
+01VKF,01VKF,Verkäuferin/Verkäufer,201,2j.
+01VF1,01VF1,Verwaltungsfachangestellte/Verwaltungsfachangestellter Fachrichtung Bundesverwaltung,201,3j.
+01VF2,01VF2,Verwaltungsfachangestellte/Verwaltungsfachangestellter Fachrichtung Landesverwaltung,201,3j.
+01VF3,01VF3,Verwaltungsfachangestellte/Verwaltungsfachangestellter Fachrichtung Kommunalverwaltung,201,3j.
+01VF5,01VF5,Verwaltungsfachangestellte/-angestellter Fachr. Kirchenverw.in den Gliedkirchen der EKD,201,3j.
+01VF4,01VF4,Verwaltungsfachangestellte/-fachangestellter Fachricht. Handwerksorganisation u. der IHK,201,3j.
+02ANM,02ANM,Anlagenmechanikerin/Anlagenmechaniker,203,"3,5j."
+02AHK,02AHK,"Anlagenmechanikerin/Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik",203,"3,5j."
+02FM1,02FM1,"Fachkraft für Metalltechnik, Fachrichtung Konstruktionstechnik",203,2j.
+02FM2,02FM2,"Fachkraft für Metalltechnik, Fachrichtung Montagetechnik",203,2j.
+02FM3,02FM3,"Fachkraft für Metalltechnik, Fachrichtung Umform- und Drahttechnik",203,2j.
+02FM4,02FM4,"Fachkraft für Metalltechnik, Fachrichtung Zerspanungstechnik",203,2j.
+02FAM,02FAM,Fahrradmonteurin/Fahrradmonteur,203,2j.
+02FW1,02FW1,Feinwerkmechanikerin/Feinwerkmechaniker Schwerpunkt Feinmechanik,203,"3,5j."
+02FW3,02FW3,Feinwerkmechanikerin/Feinwerkmechaniker Schwerpunkt Maschinenbau,203,"3,5j."
+02FW2,02FW2,Feinwerkmechanikerin/Feinwerkmechaniker Schwerpunkt Werkzeugbau,203,"3,5j."
+02FW4,02FW4,Feinwerkmechanikerin/Feinwerkmechaniker Schwerpunkt Zerspanungstechnik,203,"3,5j."
+02FEM,02FEM,Fertigungsmechanikerin/Fertigungsmechaniker,203,3j.
+02FL1,02FL1,Fluggerätmechanikerin/Fluggerätmechaniker Fachrichtung Fertigungstechnik,203,"3,5j."
+02FL2,02FL2,Fluggerätmechanikerin/Fluggerätmechaniker Fachrichtung Instandhaltungstechnik,203,"3,5j."
+02FL3,02FL3,Fluggerätmechanikerin/Fluggerätmechaniker Fachrichtung Triebwerkstechnik,203,"3,5j."
+02GIM,02GIM,Gießereimechanikerin/Gießereimechaniker,203,"3,5j."
+02GI1,02GI1,Gießereimechanikerin/Gießereimechaniker Schwerpunkt Druck- und Kokillenguss,203,"3,5j."
+02GI4,02GI4,Gießereimechanikerin/Gießereimechaniker Schwerpunkt Feinguss,203,"3,5j."
+02GI2,02GI2,Gießereimechanikerin/Gießereimechaniker Schwerpunkt Handformguss,203,"3,5j."
+02GI6,02GI6,Gießereimechanikerin/Gießereimechaniker Schwerpunkt Kernherstellung,203,"3,5j."
+02GI3,02GI3,Gießereimechanikerin/Gießereimechaniker Schwerpunkt Maschinenformguss,203,"3,5j."
+02GI5,02GI5,Gießereimechanikerin/Gießereimechaniker Schwerpunkt Schmelzbetrieb,203,"3,5j."
+02INM,02INM,Industriemechanikerin/Industriemechaniker,203,"3,5j."
+02KF3,02KF3,Karosserie- und Fahrzeugbaumechanikerin/-mechaniker Fachrichtung Karosserie- und Fahrzeugbautechnik,203,"3,5j."
+02KF1,02KF1,Karosserie- und Fahrzeugbaumechanikerin/-mechaniker Fachrichtung Karosserieinstandhaltungstechnik,203,"3,5j."
+02KF2,02KF2,Karosserie- und Fahrzeugbaumechanikerin/-mechaniker Fachrichtung Caravan- und Reisemobiltechnik,203,"3,5j."
+02KLE,02KLE,Klempnerin/Klempner,203,"3,5j."
+02KME,02KME,Konstruktionsmechanikerin/Konstruktionsmechaniker,203,"3,5j."
+02MF5,02MF5,Kraftfahrzeugmechatronikerin/Kraftfahrzeugmechatroniker Schwerpunkt Karosserietechnik,203,"3,5j."
+02MF4,02MF4,Kraftfahrzeugmechatronikerin/Kraftfahrzeugmechatroniker Schwerpunkt Motorradtechnik,203,"3,5j."
+02MF2,02MF2,Kraftfahrzeugmechatronikerin/Kraftfahrzeugmechatroniker Schwerpunkt Nutzfahrzeugtechnik,203,"3,5j."
+02MF3,02MF3,Kraftfahrzeugmechatronikerin/Kraftfahrzeugmechatroniker Schwerpunkt Personenkraftwagentechnik,203,"3,5j."
+02MF6,02MF6,Kraftfahrzeugmechatronikerin/Kraftfahrzeugmechatroniker Schwerpunkt System- und Hochvolttechnik,203,"3,5j."
+02LMM,02LMM,Land- und Baumaschinenmechatronikerin/Land- und Baumaschinenmechatroniker,203,"3,5j."
+02MS1,02MS1,Maschinen- und Anlagenführerin/-führer Schwerpunkt Metall-und Kunststofftechnik,203,2j.
+02MKT,02MKT,Mechatronikerin/Mechatroniker für Kältetechnik,203,"3,5j."
+02MB2,02MB2,Metallbauerin/Metallbauer Fachrichtung Konstruktionstechnik,203,"3,5j."
+02MB3,02MB3,Metallbauerin/Metallbauer Fachrichtung Metallgestaltung,203,"3,5j."
+02MB1,02MB1,Metallbauerin/Metallbauer Fachrichtung Nutzfahrzeugbau,203,"3,5j."
+02PMT,02PMT,Packmitteltechnologin/Packmitteltechnologe,203,3j.
+02PWS,02PWS,Präzisionswerkzeugmechanikerin/-mechaniker Fachrichtung Schneidwerkzeuge,203,"3,5j."
+02PWZ,02PWZ,Präzisionswerkzeugmechanikerin/-mechaniker Fachrichtung Zerspanwerkzeuge,203,"3,5j."
+02POT,02POT,Produktionstechnologin/Produktionstechnologe,203,3j.
+02SME,02SME,Schiffsmechanikerin/Schiffsmechaniker,203,3j.
+02SN2,02SN2,Schneidwerkzeugmechanikerin/-mechaniker Schwerpunkt Schneidemaschinen- und Messerschmiedetechnik,203,"3,5j."
+02SN1,02SN1,Schneidwerkzeugmechanikerin/-mechaniker Schwerpunkt Schneidwerkzeug- und Schleiftechnik,203,"3,5j."
+02SUT,02SUT,Stanz- und Umformmechaniker,203,3j.
+02TM1,02TM1,Technischer Modellbauer/Technische Modellbauerin Fachrichtung Gießerei,203,"3,5j."
+02TM2,02TM2,Technischer Modellbauer/Technische Modellbauerin Fachrichtung Karosserie und Produktion,203,"3,5j."
+02TM3,02TM3,Technischer Modellbauer/Technische Modellbauerin Fachrichtung Anschauung,203,"3,5j."
+02TP3,02TP3,Technischer Produktdesigner/Technische Produktdesignerin Fachrichtung Maschinen- und Anlagenkonstruktion,203,"3,5j."
+02TP4,02TP4,Technischer Produktdesigner/Technische Produktdesignerin Fachrichtung Produktgestaltung und -konstruktion,203,"3,5j."
+02TS1,02TS1,Technischer Systemplaner/Technische Systemplanerin Fachrichtung Versorgungs- und Ausrüstungstechnik,203,"3,5j."
+02TS2,02TS2,Technischer Systemplaner/Technische Systemplanerin  Fachrichtung Stahl- und Metallbautechnik,203,"3,5j."
+02TS3,02TS3,Technischer Systemplaner/Technische Systemplanerin  Fachrichtung  Elektrotechnische Systeme,203,"3,5j."
+02VM4,02VM4,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Fachrichtung Bauteile,203,3j.
+02VM6,02VM6,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Fachrichtung Faserverbundtechnologie,203,3j.
+02VM1,02VM1,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Fachrichtung Formteile,203,3j.
+02VM3,02VM3,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Fachrichtung Halbzeuge,203,3j.
+02VM5,02VM5,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Fachrichtung Kunststofffenster,203,3j.
+02VM2,02VM2,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Fachrichtung Mehrschicht-Kautschukteile,203,3j.
+02VM7,02VM7,Verfahrensmechanikerin/-mechaniker für Kunststoff- und Kautschuktechnik Compound- und Masterbatchherstellung,203,3j.
+02WME,02WME,Werkzeugmechanikerin/Werkzeugmechaniker,203,"3,5j."
+02ZEM,02ZEM,Zerspanungsmechanikerin/Zerspanungsmechaniker,203,"3,5j."
+02ZMF,02ZMF,Zweiradmechatronikerin/Zweiradmechatroniker Fachrichtung Fahrradtechnik,203,"3,5j."
+02ZMM,02ZMM,Zweiradmechatronikerin/Zweiradmechatroniker Fachrichtung Motorradtechnik,203,"3,5j."
+03EAI,03EAI,Elektroanlagenmonteurin/Elektroanlagenmonteur,205,3j.
+03EAS,03EAS,Elektronikerin/Elektroniker Fachrichtung Automatisierungs- und Systemtechnik,205,"3,5j."
+03EI1,03EI1,Elektronikerin/Elektroniker Fachrichtung Energie- und Gebäudetechnik,205,"3,5j."
+03EAT,03EAT,Elektronikerin/Elektroniker für Automatisierungstechnik,205,"3,5j."
+03EBT,03EBT,Elektronikerin/Elektroniker für Betriebstechnik,205,"3,5j."
+03EGI,03EGI,Elektronikerin/Elektroniker für Gebäude und Infrastruktursysteme,205,"3,5j."
+03EG1,03EG1,Elektronikerin/Elektroniker für Gebäudesystemintegration ,205,"3,5j."
+03EGS,03EGS,Elektronikerin/Elektroniker für Geräte und Systeme,205,"3,5j."
+03EIS,03EIS,Elektronikerin/Elektroniker für Informations- und Systemtechnik,205,"3,5j."
+03EM1,03EM1,Elektronikerin/Elektroniker für Maschinen und Antriebstechnik,205,"3,5j."
+03FA3,03FA3,Fachinformatikerin/Fachinformatiker Fachrichtung Anwendungsentwicklung,205,3j.
+03FA4,03FA4,Fachinformatikerin/Fachinformatiker Fachrichtung Systemintegration,205,3j.
+03FA5,03FA5,Fachinformatikerin/Fachinformatiker Fachrichtung Daten- und Prozessanalyse,205,3j.
+03FA6,03FA6,Fachinformatikerin/Fachinformatiker Fachrichtung Digitale Vernetzung,205,3j.
+03FVT,03FVT,Fachkraft für Veranstaltungstechnik,205,3j.
+03HÖA,03HÖA,Hörakustikerin/Hörakustiker,205,3j.
+03IE1,03IE1,Industrieelektriker/Industrieelektrikerin Fachrichtung Betriebstechnik,205,2j.
+03IE2,03IE2,Industrieelektriker/Industrieelektrikerin Fachrichtung Geräte und Systeme,205,2j.
+03INE,03INE,Informationselektronikerin/Informationselektroniker,205,"3,5j. (ab 2021)"
+03ITE,03ITE,IT-System-Elektronikerin/IT-System-Elektroniker,205,3j.
+03MET,03MET,Mechatronikerin/Mechatroniker,205,"3,5j."
+03MI1,03MI1,Mikrotechnologin/Mikrotechnologe Schwerpunkt Halbleitertechnik,205,3j.
+03MI2,03MI2,Mikrotechnologin/Mikrotechnologe Schwerpunkt Mikrosystemtechnik,205,3j.
+03SYE,03SYE,Systemelektronikerin/Systemelektroniker,205,"3,5j."
+04AU4,04AU4,Ausbaufacharbeiterin/Ausbaufacharbeiter Schwerpunkt Estricharbeiten,207,2j.
+04AU3,04AU3,"Ausbaufacharbeiterin/Ausbaufacharbeiter Schwerpunkt Fliesen-, Platten- und Mosaikarbeiten",207,2j.
+04AU2,04AU2,Ausbaufacharbeiterin/Ausbaufacharbeiter Schwerpunkt Stuckateurarbeiten,207,2j.
+04AU6,04AU6,Ausbaufacharbeiterin/Ausbaufacharbeiter Schwerpunkt Trockenbauarbeiten,207,2j.
+04AU5,04AU5,"Ausbaufacharbeiterin/Ausbaufacharbeiter Schwerpunkt Wärme-, Kälte- und Schallschutzarbeiten",207,2j.
+04AU1,04AU1,Ausbaufacharbeiterin/Ausbaufacharbeiter Schwerpunkt Zimmerarbeiten,207,2j.
+04BP1,04BP1,Baustoffprüferin/Baustoffprüfer Schwerpunkt Asphalttechnik,207,3j.
+04BP2,04BP2,Baustoffprüferin/Baustoffprüfer Schwerpunkt Geotechnik,207,3j.
+04BP3,04BP3,Baustoffprüferin/Baustoffprüfer Schwerpunkt Mörtel- und Betontechnik,207,3j.
+04BWA,04BWA,Bauwerksabdichterin/Bauwerksabdichter,207,3j.
+04BWM,04BWM,Bauwerksmechanikerin/Bauwerksmechaniker für Abbruch und Betontrenntechnik,207,3j.
+04BA1,04BA1,Bauzeichnerin/Bauzeichner Schwerpunkt Architektur,207,3j.
+04BA2,04BA2,Bauzeichnerin/Bauzeichner Schwerpunkt Ingenieurbau,207,3j.
+04BA3,04BA3,"Bauzeichnerin/Bauzeichner Schwerpunkt Tief-, Straßen- und Landschaftsbau",207,3j.
+04BET,04BET,Beton- und Stahlbetonbauerin/Beton- und Stahlbetonbauer,207,3j.
+04DA3,04DA3,Dachdeckerin/Dachdecker Schwerpunkt Abdichtungstechnik,207,3j.
+04DA4,04DA4,Dachdeckerin/Dachdecker Schwerpunkt Außenwandbekleidungstechnik,207,3j.
+04DA5,04DA5,Dachdeckerin/Dachdecker Schwerpunkt Dachdeckungstechnik,207,3j.
+04DA6,04DA6,Dachdeckerin/Dachdecker Schwerpunkt Energietechnik an Dach und Wand,207,3j.
+04DA1,04DA1,Dachdeckerin/Dachdecker Schwerpunkt Reetdachtechnik,207,3j.
+04EST,04EST,Estrichlegerin/Estrichleger,207,3j.
+04FLI,04FLI,"Fliesen-, Platten- und Mosaiklegerin/Fliesen-, Platten- und Mosaikleger",207,3j.
+04GEO,04GEO,Geomatikerin/Geomatiker,207,3j.
+04GL1,04GL1,Glaserin/Glaser Fachrichtung Verglasung und Glasbau,207,3j.
+04GL2,04GL2,Glaserin/Glaser Fachrichtung Fenster- und Glasfassadenbau,207,3j.
+04HO1,04HO1,Hochbaufacharbeiterin/Hochbaufacharbeiter Schwerpunkt Beton- und Stahlbetonbauarbeiten,207,2j.
+04HO2,04HO2,Hochbaufacharbeiterin/Hochbaufacharbeiter Schwerpunkt Maurerarbeiten,207,2j.
+04HO3,04HO3,Hochbaufacharbeiterin/Hochbaufacharbeiter Schwerpunkt Feuerungs- und Schornsteinbauarbeiten,207,2j.
+04KAN,04KAN,Kanalbauerin/Kanalbauer,207,3j.
+04KER,04KER,Keramiker/Keramikerin,207,3j.
+04MAU,04MAU,Maurerin/Maurer,207,3j.
+04ROH,04ROH,Rohrleitungsbauerin/Rohrleitungsbauer,207,3j.
+04SOR,04SOR,Schornsteinfegerin/Schornsteinfeger,207,3j.
+04STB,04STB,Straßenbauerin/Straßenbauer,207,3j.
+04STW,04STW,Straßenwärterin/Straßenwärter,207,3j.
+04STU,04STU,Stukkateurin/Stukkateur,207,3j.
+04TI1,04TI1,Tiefbaufacharbeiterin/Tiefbaufacharbeiter Schwerpunkt Brunnen- und Spezialtiefbauarbeiten,207,2j.
+04TI2,04TI2,Tiefbaufacharbeiterin/Tiefbaufacharbeiter Schwerpunkt Gleisbauarbeiten,207,2j.
+04TI3,04TI3,Tiefbaufacharbeiterin/Tiefbaufacharbeiter Schwerpunkt Kanalbauarbeiten,207,2j.
+04TI4,04TI4,Tiefbaufacharbeiterin/Tiefbaufacharbeiter Schwerpunkt Rohrleitungsbauarbeiten,207,2j.
+04TI5,04TI5,Tiefbaufacharbeiterin/Tiefbaufacharbeiter Schwerpunkt Straßenbauarbeiten,207,2j.
+04TRO,04TRO,Trockenbaumonteurin/Trockenbaumonteur,207,3j.
+04VMT,04VMT,Vermessungstechnikerin/Vermessungstechniker,207,3j.
+04WKS,04WKS,"Wärme-, Kälte- und Schallschutzisoliererin/Wärme-, Kälte- und Schallschutzisolierer",207,3j.
+04ZIM,04ZIM,Zimmerin/Zimmerer,207,3j.
+05BO1,05BO1,"Bootsbauerin/Bootsbauer Fachrichtung Neu-, Aus- und Umbau",209,"3,5j."
+05BO2,05BO2,Bootsbauerin/Bootsbauer Fachrichtung Technik,209,"3,5j."
+05FMU,05FMU,"Fachkraft für Möbel-, Küchen- und Umzugsservice",209,3j.
+05HBA,05HBA,Fachkraft für Holz- und Bautenschutzarbeiten (2-jährig),209,2j.
+05HBS,05HBS,Holz- und Bautenschützerin/Holz- und Bautenschützer,209,3j.
+05HBM,05HBM,Holzbearbeitungsmechanikerin/Holzbearbeitungsmechaniker ,209,3j.
+05HBI,05HBI,Holzbildhauerin/Holzbildhauer,209,3j.
+05HM1,05HM1,"Holzmechanikerin/Holzmechaniker FR Herstellen von Bauelementen, Holzpackmitteln und Rahmen",209,3j.
+05HM2,05HM2,Holzmechanikerin/Holzmechaniker FR Herstellen von Möbeln und Innenausbauteilen,209,3j.
+05HM3,05HM3,Holzmechanikerin/Holzmechaniker FR Montieren von Innenausbauten und Bauelementen,209,3j.
+05TIS,05TIS,Tischlerin/Tischler,209,3j.
+06ÄNS,06ÄNS,Änderungsschneiderin/Änderungsschneider,211,2j.
+06KÜR,06KÜR,Kürschnerin/Kürschner,211,3j.
+06MAN,06MAN,Maschinen- und Anlagenführerin/Maschinen- und Anlagenführer Schwerpunkt Textiltechnik ,211,2j.
+06MAS,06MAS,Maßschneiderin/Maßschneider Schwerpunkt Damen,211,3j.
+06MAH,06MAH,Maßschneiderin/Maßschneider Schwerpunkt Herren,211,3j.
+06MSM,06MSM,Maßschuhmacherin/Maßschuhmacher FR Maßschuhe,211,3j.
+06MSS,06MSS,Maßschuhmacherin/Maßschuhmacher FR Schaftbau,211,3j.
+06MOD,06MOD,Modistin/Modist,211,3j.
+06OPÄ,06OPÄ,Orthopädieschuhmacherin/Orthopädieschuhmacher,211,"3,5j."
+06PMT,06PMT,Produktionsmechanikerin Textil/Produktionsmechaniker Textil,211,3j.
+06PVT,06PVT,Produktveredlerin Textil/Produktveredler Textil,211,3j.
+06SA1,06SA1,Sattlerin/Sattler Fachrichtung Fahrzeugsattlerei,211,3j.
+06SA2,06SA2,Sattlerin/Sattler Fachrichtung Feintäschnerei,211,3j.
+06SA3,06SA3,Sattlerin/Sattler Fachrichtung Reitsportsattlerei,211,3j.
+06SUF,06SUF,Schuhfertigerin/Schuhfertiger,211,3j.
+06SEG,06SEG,Segelmacherin/Segelmacher,211,3j.
+06SEI,06SEI,Seilerin/Seiler,211,3j.
+06TKF,06TKF,Technische Konfektionärin/Technischer Konfektionär,211,3j.
+06TMN,06TMN,Textil- und Modenäherin/Textil- und Modenäher,211,2j.
+06TMS,06TMS,Textil- und Modeschneiderin/Textil- und Modeschneider,211,3j.
+07BIL,07BIL,Biologielaborantin/Biologielaborant,213,"3,5j."
+07CIL,07CIL,Chemielaborantin/Chemielaborant,213,"3,5j."
+07CHK,07CHK,Chemikantin/Chemikant,213,"3,5j."
+07CLW,07CLW,Chemielaborjungwerkerin/Chemielaborjungwerker,213,2j.
+07FAT,07FAT,Fachkraft für Abwassertechnik,213,"3j., auslaufend (ab 2024)"
+07FKA,07FKA,Fachkraft für Kreislauf- und Abfallwirtschaft,213,"3j., auslaufend (ab 2024)"
+07FRI,07FRI,"Fachkraft für Rohr-, Kanal- und Industrieservice",213,"3j., auslaufend (ab 2024)"
+07FWT,07FWT,Fachkraft für Wasserversorgungstechnik,213,"3j., auslaufend (ab 2024)"
+07FO1,07FO1,Fotografin/Fotograf Schwerpunkt Portraitfotografie,213,3j.
+07FO2,07FO2,Fotografin/Fotograf Schwerpunkt Produktfotografie,213,3j.
+07FO3,07FO3,Fotografin/Fotograf Schwerpunkt Wissenschaftsfotografie,213,3j.
+07FO4,07FO4,Fotografin/Fotograf Schwerpunkt Industrie- und Architekturfotografie,213,3j.
+07GBR,07GBR,Gebäudereinigerin/Gebäudereiniger,213,3j.
+07LAL,07LAL,Lacklaborantin/Lacklaborant,213,"3,5j."
+07MIL,07MIL,Milchwirtschaftliche Laborantin/Milchwirtschaftlicher Laborant,213,3j.
+07PHY,07PHY,Physiklaborantin/Physiklaborant,213,"3,5j."
+07PCH,07PCH,Produktionsfachkraft Chemie,213,2j.
+07TRF,07TRF,Textilreinigerin/Textilreiniger,213,2j.
+07UTA,07UTA,Umwelttechnologin/Umwelttechnologe für Abwasserbewirtschaftung,213,"3j., neu ab 08/2024"
+07UTK,07UTK,Umwelttechnologin/Umwelttechnologe für Kreislauf- und Abfallwirtschaft,213,"3j., neu ab 08/2024"
+07UTR,07UTR,Umwelttechnologin/Umwelttechnologe für Rohrleitungsnetze und Industrieanlagen,213,"3j., neu ab 08/2024"
+07UTW,07UTW,Umwelttechnologin/Umwelttechnologe für Wasserversorgung,213,"3j., neu ab 08/2024"
+08BUB,08BUB,Buchbinderin/Buchbinder,215,3j.
+08MFD,08MFD,Maschinen- und Anlagenführerin/-führer Schwerpunkt Druckweiter- und Papierverarbeitung,215,2j.
+08MBT,08MBT,Mediengestalterin/Mediengestalter Bild und Ton,215,3j.
+08ME5,08ME5,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Beratung und Planung,215,"3j., 
+auslaufend (ab 2023)"
+08ME7,08ME7,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Gestaltung und Technik,215,"3j., 
+auslaufend (ab 2023)"
+08ME6,08ME6,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Konzeption und Visualisierung,215,"3j., 
+auslaufend (ab 2023)"
+08ME1,08ME1,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Designkonzeption,215,3j. 
+08ME2,08ME2,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Digitalmedien,215,3j. 
+08ME3,08ME3,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Printmedien,215,3j. 
+08ME4,08ME4,Mediengestalterin/Mediengestalter Digital und Print Fachrichtung Projektmanagement,215,3j. 
+08GIM,08GIM,Gestalterin/Gestalter für immersive Medien,215,3j.
+08MT1,08MT1,Medientechnologin/Medientechnologe Druck,215,3j.
+08MT2,08MT2,Medientechnologin/Medientechnologe Druckverarbeitung,215,3j.
+08MT3,08MT3,Medientechnologin/Medientechnologe Siebdruck,215,3j.
+09BOB,09BOB,Bauten- und Objektbeschichterin/Bauten- und Objektbeschichter,217,2j.
+09FIA,09FIA,Fahrzeuginterieur-Mechanikerin/Fahrzeuginterieur-Mechaniker,217,3j.
+09FZL,09FZL,Fahrzeuglackiererin/Fahrzeuglackierer,217,3j.
+09GES,09GES,Gestalterin/Gestalter für visuelles Marketing,217,3j.
+09MA1,09MA1,Malerin und Lackiererin/Maler und Lackierer Fachrichtung Bauten und Korrosionsschutz,217,3j.
+09MA3,09MA3,Malerin und Lackiererin/Maler und Lackierer Fachrichtung Gestaltung und Instandhaltung,217,3j.
+09MA4,09MA4,Malerin und Lackiererin/Maler und Lackierer Fachrichtung Ausbautechnik und Oberflächengestaltung,217,3j.
+09MA5,09MA5,Malerin und Lackiererin/Maler und Lackierer Fachrichtung Energieeffizienz- und Gestaltungstechnik,217,3j.
+09PDN,09PDN,Polster- und Dekorationsnäherin/Polster- und Dekorationsnäher,217,2j.
+09POL,09POL,Polsterin/Polsterer,217,3j.
+09RA1,09RA1,Raumausstatterin/Raumausstatter Schwerpunkt Boden,217,3j.
+09RA2,09RA2,Raumausstatterin/Raumausstatter Schwerpunkt Polstern,217,3j.
+09RA3,09RA3,"Raumausstatterin/Raumausstatter Schwerpunkt Raumdekoration sowie Licht-, Sicht- und Sonnenschutz",217,3j.
+09RA4,09RA4,Raumausstatterin/Raumausstatter Schwerpunkt Wand- und Deckendekoration,217,3j.
+09SLI,09SLI,Schilder- und Lichtreklameherstellerin/Schilder- und Lichtreklamehersteller,217,3j.
+10AUG,10AUG,Augenoptikerin/Augenoptiker,219,3j.
+10MFA,10MFA,Medizinische Fachangestellte/Medizinischer Fachangestellter,219,3j.
+10OTA,10OTA,Operationstechnische Angestellte/Operationstechnischer Angestellter,219,3j.
+10TFT,10TFT,Tiermedizinische Fachangestellte/Tiermedizinischer Fachangestellter,219,3j.
+10ZAF,10ZAF,Zahnmedizinische Fachangestellte/Zahnmedizinischer Fachangestellter,219,3j.
+10ZTE,10ZTE,Zahntechnikerin/Zahntechniker,219,"3,5j."
+11FRI,11FRI,Friseurin/Friseur,221,3j.
+11KOS,11KOS,Kosmetikerin/Kosmetiker,221,3j.
+12BAC,12BAC,Bäckerin/Bäcker,223,3j.
+12FSG,12FSG,Fachfrau/Fachmann für Systemgastronomie,223,3j.
+12FKL,12FKL,Fachkraft für Lebensmitteltechnik,223,3j.
+12FGA,12FGA,Fachkraft für Gastronomie,223,2j.
+12FSE,12FSE,Fachkraft für Speiseeis,223,3j.
+12FKÜ,12FKÜ,Fachkraft Küche,223,2j.
+12FA1,12FA1,Fachverkäuferin/Fachverkäufer im Lebensmittelhandwerk Schwerpunkt Bäckerei,223,3j.
+12FA2,12FA2,Fachverkäuferin/Fachverkäufer im Lebensmittelhandwerk Schwerpunkt Fleischerei,223,3j.
+12FA3,12FA3,Fachverkäuferin/Fachverkäufer im Lebensmittelhandwerk Schwerpunkt Konditorei,223,3j.
+12FLE,12FLE,Fleischerin/Fleischer,223,3j.
+12HAW,12HAW,Hauswirtschafterin/Hauswirtschafter,223,3j.
+12HOT,12HOT,Hotelfachfrau/Hotelfachmann,223,3j.
+12KHM,12KHM,Kauffrau/Kaufmann Hotelmanagement,223,3j.
+12KOH,12KOH,Köchin/Koch,223,3j.
+12KON,12KON,Konditorin/Konditor,223,3j.
+12MFL,12MFL,Maschinen- und Anlagenführerin/Maschinen- und Anlagenführer Schwerpunkt Lebensmitteltechnik,223,2j.
+12MTE,12MTE,Milchtechnologin/Milchtechnologe,223,3j.
+12FRV,12FRV,Fachfrau/Fachmann für Restaurants und Veranstaltungsgastronomie,223,3j.
+13FKA,13FKA,Fachkraft Agrarservice,225,3j.
+13FWA,13FWA,Fischwirtin/Fischwirt FR Aquakultur- und Binnenfischerei,225,3j.
+13FKH,13FKH,Fischwirtin/Fischwirt FR Küstenfischerei und kleine Hochseefischerei,225,3j.
+13FLO,13FLO,Floristin/Florist,225,3j.
+13FOW,13FOW,Forstwirtin/Forstwirt,225,3j.
+13GÄ6,13GÄ6,Gärtnerin/Gärtner Fachrichtung Baumschule,225,3j.
+13GÄ5,13GÄ5,Gärtnerin/Gärtner Fachrichtung Friedhofsgärtnerei,225,3j.
+13GÄ7,13GÄ7,Gärtnerin/Gärtner Fachrichtung Garten- und Landschaftsbau,225,3j.
+13GÄ1,13GÄ1,Gärtnerin/Gärtner Fachrichtung Gemüsebau,225,3j.
+13GÄ3,13GÄ3,Gärtnerin/Gärtner Fachrichtung Obstbau,225,3j.
+13GÄ4,13GÄ4,Gärtnerin/Gärtner Fachrichtung Staudengärtnerei,225,3j.
+13GÄ2,13GÄ2,Gärtnerin/Gärtner Fachrichtung Zierpflanzenbau,225,3j.
+13LWI,13LWI,Landwirtin/Landwirt,225,3j.
+13PF5,13PF5,Pferdewirtin/Pferdewirt Fachrichtung Klassische Reitausbildung,225,3j.
+13PF6,13PF6,Pferdewirtin/Pferdewirt Fachrichtung Pferdehaltung und Service,225,3j.
+13PF7,13PF7,Pferdewirtin/Pferdewirt Fachrichtung Pferderennen,225,3j.
+13PF8,13PF8,Pferdewirtin/Pferdewirt Fachrichtung Pferdezucht,225,3j.
+13PF9,13PF9,Pferdewirtin/Pferdewirt Fachrichtung Spezialreitweisen,225,3j.
+13TP1,13TP1,Tierpflegerin/Tierpfleger Fachrichtung Forschung und Klinik,225,3j.
+13TP3,13TP3,Tierpflegerin/Tierpfleger Fachrichtung Tierheim und Tierpension,225,3j.
+13TP2,13TP2,Tierpflegerin/Tierpfleger Fachrichtung Zoo,225,3j.
+13TW3,13TW3,Tierwirtin/Tierwirt Fachrichtung Geflügelhaltung,225,3j.
+13TW5,13TW5,Tierwirtin/Tierwirt Fachrichtung Imkerei ,225,3j.
+13TW1,13TW1,Tierwirtin/Tierwirt Fachrichtung Rinderhaltung,225,3j.
+13TW4,13TW4,Tierwirtin/Tierwirt Fachrichtung Schäferei,225,3j.
+13TW2,13TW2,Tierwirtin/Tierwirt Fachrichtung Schweinehaltung,225,3j.
+15BAW,15BAW,Bäckerwerkerin/Bäckerwerker,227,2j./3j.
+15BMA,15BMA,Bau- und Metallmalerin/Bau- und Metallmaler,227,3j.
+15FPF,15FPF,Fachpraktikerin/Fachpraktiker der Pferdewirtschaft,227,3j.
+15FPH,15FPH,Fachpraktikerin/Fachpraktiker Hauswirtschaft,227,3j.
+15FPB,15FPB,Fachpraktikerin/Fachpraktiker für Bürokommunikation,227,2j./3j.
+15FPE,15FPE,Fachpraktikerin/Fachpraktiker für Elektronik,227,2j./3j.
+15FEG,15FEG,Fachpraktikerin/Fachpraktiker für elektronische Geräte und Systeme,227,"2j./3./3,5j."
+15FHO,15FHO,Fachpraktikerin/Fachpraktiker für Holzverarbeitung,227,2j./3j.
+15FPI,15FPI,Fachpraktikerin/Fachpraktiker für IT-Support,227,3j.
+15FPK,15FPK,Fachpraktikerin/Fachpraktiker für Konstruktionsmechanik (Schweißtechnik),227,3j.
+15FPM,15FPM,Fachpraktiker für Metallbau,227,"3,5j."
+15FKF,15FKF,Fachpraktikerin/Fachpraktiker für Kfz-Mechatroniker,227,"2j./3j./3,5j."
+15FML,15FML,Fachpraktikerin Malerin und Lackiererin/Fachpraktiker Maler und Lackierer,227,3j.
+15FPP,15FPP,Fachpraktikerin/Fachpraktiker für personale Dienstleistungen,227,3j.
+15FPT,15FPT,Fachpraktikerin/Fachpraktiker für Technische Zeichner,227,2j./3j.
+15FPZ,15FPZ,Fachpraktikerin/Fachpraktiker für Zerspanungsmechanik,227,"2j./3./3,5j."
+15FZT,15FZT,Fachpraktiker für Zerspanungstechnik,227,"2j./3./3,5j."
+15FZM,15FZM,Fachpraktikerin/Fachpraktiker für Zweiradmechatroniker Fachrichtung Fahrradtechnik,227,"3j./3,5j., neu ab 08/2024"
+15FPL,15FPL,Fachpraktikerin/Fachpraktiker im Lagerbereich,227,2j./3j.
+15FPV,15FPV,Fachpraktikerin/Fachpraktiker im Verkauf,227,2j.
+15FKÜ,15FKÜ,Fachpraktikerin/Fachpraktiker Küche (Beikoch),227,2j./3j.
+15FWR,15FWR,Fachwerkerin/Fachwerker für Recycling,227,2j./3j.
+15FZP,15FZP,Fahrzeugpflegerin/Fahrzeugpfleger,227,2j./3j.
+15HMH,15HMH,Hausmeisterhelferin/Hausmeisterhelfer,227,3j.
+15HGA,15HGA,Helferin/Helfer im Gastgewerbe,227,
+15HIT,15HIT,Helferin/Helfer im Trockenbau,227,2j./3j.
+15HBE,15HBE,Holzbearbeiterin/Holzbearbeiter,227,3j.
+15LFH,15LFH,Lagerfachhelferin/Lagerfachhelfer,227,2j./3j.
+15MBE,15MBE,Metallbearbeiterin/Metallbearbeiter,227,2j./3j.
+15MFE,15MFE,Metallfeinbearbeiterin/Metallfeinbearbeiter,227,2j./3j.
+15RAS,15RAS,Raumausstatterwerkerin/Raumausstatterwerker,227,3j.
+15TRW,15TRW,Textilreiniger-Werkerin/Textilreiniger-Werker,227,3j.
+15VKH,15VKH,Verkaufshelferin/Verkaufshelfer,227,2j.
+15LWW,15LWW,Werkerin/Werker in der Landwirtschaft,227,3j.
+15WIG,15WIG,Werkerin/Werker im Gartenbau,227,3j.
+15WMS,15WMS,Werkzeugmaschinenspanerin/Werkzeugmaschinenspaner (Drehen),227,"2,5/3,5j."
+15WMF,15WMF,Werkzeugmaschinenspanerin/Werkzeugmaschinenspaner (Fräsen),227,"2,5/3,5j."
+15ZRM,15ZRM,Zweiradmechanikerwerkerin/Zweiradmechanikerwerker,227,3j. auslaufend (ab 2024)
